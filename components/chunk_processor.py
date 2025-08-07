@@ -82,7 +82,7 @@ class ChunkProcessor:
                 search_start = max(end - 50, start + chunk_size // 2)
                 # end search in overlap territory
                 search_end = min(end + 50, text_length)
-                
+                # in this search range, we look for safe break points
                 best_break = end
                 for i in range(search_end - 1, search_start - 1, -1):
                     if text[i] in safe_break_chars:

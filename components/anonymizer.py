@@ -14,9 +14,9 @@ class Anonymizer:
     def anonymize(self):
         valid_entities = [e for e in self.entities if e.label in self.supported_labels] # gets entites for labels
         result_text = self.text
-        for entity in sorted(valid_entities, key=lambda e: e.start, reverse=True):
+        for entity in sorted(valid_entities, key=lambda e: e.start, reverse=True): # sorts entities by start position
             placeholder = self.mapper.get_or_create_placeholder(entity)
-            result_text = result_text[:entity.start] + placeholder + result_text[entity.end:]
+            result_text = result_text[:entity.start] + placeholder + result_text[entity.end:] # replaces entity with placeholder
         self.result_text = result_text
         self.filtered_entities = valid_entities
 
