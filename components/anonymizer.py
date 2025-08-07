@@ -12,7 +12,7 @@ class Anonymizer:
         self.filtered_entities = None
 
     def anonymize(self):
-        valid_entities = [e for e in self.entities if e.label in self.supported_labels]
+        valid_entities = [e for e in self.entities if e.label in self.supported_labels] # gets entites for labels
         result_text = self.text
         for entity in sorted(valid_entities, key=lambda e: e.start, reverse=True):
             placeholder = self.mapper.get_or_create_placeholder(entity)

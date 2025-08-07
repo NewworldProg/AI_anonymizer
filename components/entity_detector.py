@@ -53,13 +53,9 @@ class EntityDetector:
         except Exception as e:
             logger.error(f"Failed to setup regex patterns: {e}")
             raise
-    
+    # input text
     def detect_entities_full_text(self, text: str) -> List[EntityMatch]: 
-        """
-        Advanced detection with precise offset mapping:
-        - Tokenized chunking for NER (uses offset_mapping for exact positions)
-        - Pattern-aware chunking for regex (avoids breaking patterns)
-        """
+
         if not text or not text.strip():
             return []
         
@@ -79,7 +75,7 @@ class EntityDetector:
         logger.info(f"Final entities after deduplication: {len(deduplicated)}")
         
         return deduplicated
-
+    
     def _detect_entities_ner_chunked(self, text: str) -> List[EntityMatch]:
         """NER detection with tokenized chunking for optimal transformer performance."""
         # Use ChunkProcessor for tokenized chunking
@@ -204,11 +200,12 @@ class EntityDetector:
 
             if not overlaps: # If no overlap, add
                 final_entities.append(entity)
-        # output deduplicated entities
         logger.info(f"Deduplication: Removed {exact_duplicate_count} exact duplicates.")
         logger.info(f"Deduplication: Removed {overlap_removed_count} overlapping entities (lower confidence).")
         return final_entities
-    
+    # output deduplicated entities + logging
+
+    # labels refactoring
     def _map_label(self, model_label: str) -> str:
         """Map model-specific labels to standard labels."""
         label_mapping = {

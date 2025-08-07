@@ -42,14 +42,12 @@ class ChunkProcessor:
         start_token = 0
         
         while start_token < len(tokens):
-            # Define end token for this chunk
+            # returns either start token + chunk size in create_tokenized_chunks if there is more tokens to processor end token
             end_token = min(start_token + effective_max_tokens, len(tokens))
-            
-            # Get character start and end positions from offset mapping
+
+            # uses offset_mapping to increment start and end positions of next chunk
             chunk_char_start = offset_mapping[start_token][0]
             chunk_char_end = offset_mapping[end_token - 1][1]
-            
-            # Extract the exact text using character positions
             chunk_text = text[chunk_char_start:chunk_char_end]
             chunk_offset = chunk_char_start
             
@@ -58,11 +56,11 @@ class ChunkProcessor:
             # Move to next chunk with overlap
             if end_token >= len(tokens):
                 break
-            start_token = end_token - min(overlap_tokens, effective_max_tokens // 4)
-            
+            start_token = max(0, end_token - overlap_tokens)
+
         logger.info(f"Created {len(chunks)} tokenized chunks for NER processing (max {effective_max_tokens} tokens each)")
         return chunks
-
+    # input text, chunk size, and overlap size
     def create_regex_safe_chunks(self, text: str, chunk_size: int = 5000, overlap_size: int = 200) -> List[Tuple[str, int]]:
         """Create chunks that avoid breaking regex patterns at boundaries."""
         if not text or len(text) <= chunk_size:
@@ -71,8 +69,8 @@ class ChunkProcessor:
         chunks = []
         start = 0
         text_length = len(text)
-        
-        # Characters that commonly appear in patterns we want to preserve
+
+        # Characters that commonly are good break points
         safe_break_chars = {' ', '\n', '\t', '.', '!', '?', ';', '\r'}
         
         while start < text_length:
@@ -80,8 +78,9 @@ class ChunkProcessor:
             
             # If not at the end of text, try to find a safe break point
             if end < text_length:
-                # Look for safe break characters near the intended end
+                # start search for the half of the chunked text or higher
                 search_start = max(end - 50, start + chunk_size // 2)
+                # end search in overlap territory
                 search_end = min(end + 50, text_length)
                 
                 best_break = end

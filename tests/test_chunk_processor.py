@@ -43,7 +43,7 @@ class TestChunkProcessor:
             assert isinstance(chunk, str)
             assert isinstance(offset, int)
             assert chunk
-        # output results of basic tokenized chunk creation
+    # output results of basic tokenized chunk creation
 
     # input text for regex safe chunk creation
     def test_regex_safe_chunks_basic(self, processor):

@@ -1,14 +1,13 @@
-import os  # file operations
-import time  # time tracking
-from time import sleep  # simulate loading time
-import tracemalloc  # memory tracking
-from components import (  # main components
+import time # time tracking
+from time import sleep # simulate loading time
+import os   # file operations
+import tracemalloc # system resource tracking
+from components import (    # components that contain the main functionality
     InputTextHandler,
-    EntityDetector,
-    EntityMapper,
-    StatisticsGenerator,
-    TextDeanonymizer,
-    Anonymizer
+    EntityDetector, 
+    EntityMapper, 
+    StatisticsGenerator, 
+    TextDeanonymizer
 )
 
 if __name__ == "__main__":
@@ -51,14 +50,14 @@ if __name__ == "__main__":
 
     input("⏸️  Press Enter to show anonymized text preview...\n")
     print(f"\nAnonymized text preview:")
-
-    # input text
+    from components.anonymizer import Anonymizer
     anonymizer = Anonymizer(text, all_entities, entity_mapper)
     anonymizer.anonymize()
     result_text = anonymizer.result_text
     text_preview = result_text[:400] + ("..." if len(result_text) > 400 else "")
     print(text_preview)
-    # output anonymized text
+    # output preview of anonymized text
+
     input("⏸️  Press Enter to generate statistics...\n")
 
     print("\nGenerating statistics...")
@@ -75,6 +74,7 @@ if __name__ == "__main__":
         exit(0)
     else:
         print("\nSaving results to output directory...")
+        import os
         os.makedirs("output", exist_ok=True)
 
         with open("output/anonymized_text.txt", 'w', encoding='utf-8') as f:
@@ -102,12 +102,15 @@ if __name__ == "__main__":
 
     print("\n" + "=" * 50)
     deanon_choice = input("Test de-anonymization? (y/n): ").lower().strip()
+    
+    # input anonymized text and entity mapping
     if deanon_choice in ['y', 'yes']:
         print("Starting de-anonymization...")
         deanonymized = TextDeanonymizer.deanonymize_text(result_text, entity_mapper.get_mapping())
         success = deanonymized == text
-        print(f"De-anonymization {'successful' if success else 'missmatching exists'}")
-
+        print(f"De-anonymization {'successful' if success else 'failed'}")
+        
+        # Save deanonymized text
         with open("output/deanonymized_text.txt", 'w', encoding='utf-8') as f:
             f.write(deanonymized)
 
