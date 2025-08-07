@@ -1,0 +1,2107 @@
+Entity Mapping:
+==================================================
+[LOC_100] →  Sudan
+[LOC_101] →  Marseille
+[LOC_102] → Marseille
+[LOC_103] →  France
+[LOC_104] →  Alps
+[LOC_105] →  Rosny sous-Bois
+[LOC_106] →  Paris
+[LOC_107] →  Seyne-les-Alpes
+[LOC_108] →  Le Vernet
+[LOC_109] →  Dusseldorf
+[LOC_10] →  Washington State
+[LOC_110] →  California
+[LOC_111] →  Iowa
+[LOC_112] →  Michigan
+[LOC_113] →  I
+[LOC_114] →  Illinois
+[LOC_115] →  Orange County
+[LOC_116] →  Crystal Cathedral
+[LOC_117] →  Tower of Hope
+[LOC_118] →  Angeles.
+[LOC_119] →  United 
+[LOC_11] →  Veterinary Teaching Hospital
+[LOC_120] → Norfolk
+[LOC_121] →  Virginia
+[LOC_122] →  Conway
+[LOC_123] →  South Carolina
+[LOC_124] →  Carolinas
+[LOC_125] →  Norfolk
+[LOC_126] →  Sentara Norfolk General Hospital
+[LOC_127] →  folk General Hospital
+[LOC_128] →  Bucksport Plantation Marina
+[LOC_129] →  Buscksport
+[LOC_12] →  Moses Lake
+[LOC_130] →  Lausanne
+[LOC_131] →  Iran.
+[LOC_132] → . Iran
+[LOC_133] → United States
+[LOC_134] →  United Kingdom
+[LOC_135] →  Russia
+[LOC_136] → Los Angeles
+[LOC_137] →  West Coast
+[LOC_138] →  West
+[LOC_139] →  Southwest
+[LOC_13] →  Washington
+[LOC_140] →  Oklahoma
+[LOC_141] →  Golden State
+[LOC_142] →  Sierra Nevada
+[LOC_143] →  Lake Tahoe
+[LOC_144] → California
+[LOC_145] →  Napa
+[LOC_146] →  Philadelphia
+[LOC_147] →  New York
+[LOC_148] →  easies
+[LOC_149] →  Syria
+[LOC_14] →  Tampa
+[LOC_150] →  Spain
+[LOC_151] →  Barcelona
+[LOC_152] →  United Arab Emirates
+[LOC_153] →  Australia
+[LOC_154] →  Malaysia
+[LOC_155] →  Asia
+[LOC_156] →  Singapore
+[LOC_157] →  Ho Chi Minh City
+[LOC_158] →  Dhaka
+[LOC_159] →  Ontario
+[LOC_15] →  Florida
+[LOC_160] →  Vegas
+[LOC_161] →  Southington
+[LOC_162] →  Ohio
+[LOC_163] →  Carowinds
+[LOC_164] →  Charlotte
+[LOC_165] → Washington
+[LOC_166] → South Carolina
+[LOC_167] →  Walkerton
+[LOC_168] →  South Bend
+[LOC_169] →  Goshen
+[LOC_16] → .
+[LOC_170] →  Malegaon
+[LOC_171] →  Maharashtra
+[LOC_172] →  Haryana
+[LOC_173] →  India
+[LOC_174] →  El Salvador
+[LOC_175] →  Mexico
+[LOC_176] →  Marshall Islands
+[LOC_177] →  Gulf Stream
+[LOC_178] →  Paredon Viejo
+[LOC_179] →  Pacific
+[LOC_17] →  San Francisco
+[LOC_180] →  Ebon Atoll
+[LOC_181] →  Majuro
+[LOC_182] →  Hawaii
+[LOC_183] →  Molokai
+[LOC_184] →  Honolulu
+[LOC_185] →  Panama
+[LOC_186] →  San Carlos
+[LOC_187] →  Galapagos Islands
+[LOC_188] →  Tokyo
+[LOC_189] →  Minamisoma
+[LOC_18] →  U
+[LOC_190] →  Earth
+[LOC_191] →  Neptune
+[LOC_192] →  Lake Geneva
+[LOC_193] →  Jura
+[LOC_194] → Atlanta
+[LOC_195] →  Austell
+[LOC_196] →  Georgia
+[LOC_197] →  Forsyth County
+[LOC_198] →  Mississippi River
+[LOC_199] →  South America
+[LOC_19] → S.
+[LOC_1] → Israel
+[LOC_200] →  merica
+[LOC_201] →  North America
+[LOC_202] →  East Coast
+[LOC_203] →  Greenland
+[LOC_204] →  Iceland
+[LOC_205] →  East Africa
+[LOC_206] →  Kenya
+[LOC_207] →  Westgate Shopping Centre
+[LOC_208] →  Nairobi
+[LOC_209] →  Mogadishu
+[LOC_20] →  Iran
+[LOC_210] →  Ethiopia
+[LOC_211] →  Kampala
+[LOC_212] →  Yemen
+[LOC_213] →  Garissa
+[LOC_214] →  Vatican
+[LOC_215] →  Holy Land
+[LOC_216] →  Jerusalem
+[LOC_217] →  St
+[LOC_218] →  Peter's Square
+[LOC_219] →  South Sudan
+[LOC_21] → Iran
+[LOC_220] →  Ukraine
+[LOC_221] →  Church of the Holy Sepulcher
+[LOC_222] →  Calvary
+[LOC_223] →  Alsace
+[LOC_224] →  Connecticut
+[LOC_225] →  Connecticut Children's Medical Center
+[LOC_226] →  Hartford
+[LOC_227] → S
+[LOC_228] →  Antarctica Peninsula
+[LOC_229] →  Antarctica
+[LOC_22] →  United States.
+[LOC_230] →  Argentina
+[LOC_231] →  Esperanza Base
+[LOC_232] →  Antarctic
+[LOC_233] →  Amazon
+[LOC_234] →  Brazil
+[LOC_235] →  Santa Fe
+[LOC_236] →  New Mexico
+[LOC_237] →  Houston
+[LOC_238] →  Cartersville
+[LOC_239] →  Jacksonville
+[LOC_23] →  Tehran
+[LOC_240] → Seoul
+[LOC_241] →  South Korea
+[LOC_242] →  Seoul
+[LOC_243] →  North
+[LOC_244] →  Yonsei Severance Hospital
+[LOC_245] → U.S.
+[LOC_246] →  Hong Kong
+[LOC_247] →  Wan Chai
+[LOC_248] →  Cilacap
+[LOC_249] →  Central Java
+[LOC_24] →  U.S.
+[LOC_250] →  Jakarta
+[LOC_251] →  Muna
+[LOC_252] →  Sulawesi
+[LOC_253] →  Victo
+[LOC_254] →  Victoria Park
+[LOC_255] →  Thailand
+[LOC_256] →  Bangkok
+[LOC_257] →  Suvarnabhumi International Airport
+[LOC_258] →  Pattaya
+[LOC_259] →  Phuket
+[LOC_25] →  Manhattan
+[LOC_260] →  Fort Leavenworth Disciplinary Barracks
+[LOC_261] →  Kansas
+[LOC_262] →  Fordow
+[LOC_263] →  Arak
+[LOC_264] →  Natanz
+[LOC_265] →  Japan
+[LOC_266] →  Shibuya
+[LOC_267] →  Setagaya
+[LOC_268] →  Yodogawa
+[LOC_269] →  Osaka
+[LOC_26] →  San Francisco.
+[LOC_270] →  Broken Arrow
+[LOC_271] →  Sanaa
+[LOC_272] →  Sa
+[LOC_273] →  Aden
+[LOC_274] →  Near and Middle East
+[LOC_275] →  Djibouti
+[LOC_276] →  Moscow
+[LOC_277] →  Persian Gulf
+[LOC_278] →  Riyadh
+[LOC_279] →  Pacific Northwest
+[LOC_27] →  Switzerland
+[LOC_280] →  Twin Peaks
+[LOC_281] →  Mamapasono
+[LOC_282] →  Maguindanao
+[LOC_283] →  Mamapasano
+[LOC_284] →  Delaware
+[LOC_285] →  Sirenusa
+[LOC_286] → S. Virgin Islands
+[LOC_287] →  U.S. Virgin Islands
+[LOC_288] →  John
+[LOC_289] →  Ferguson
+[LOC_28] →  Sierra Leone
+[LOC_290] →  Missouri
+[LOC_291] →  Fujian
+[LOC_292] → Hong Kong
+[LOC_293] →  Zhangzhou
+[LOC_294] →  Xiamen
+[LOC_295] →  Shawshank Prison
+[LOC_296] →  Jamaica
+[LOC_297] →  Miami
+[LOC_298] →  Tennessee
+[LOC_299] →  Boston
+[LOC_29] →  Maryland
+[LOC_2] →  United States
+[LOC_300] →  Cambridge
+[LOC_301] →  Altamont
+[LOC_302] →  Baltimore
+[LOC_303] →  Madison Avenue
+[LOC_304] →  Woodstock
+[LOC_305] →  Lake Lanier
+[LOC_306] →  Goa
+[LOC_307] → New Delhi
+[LOC_308] →  Turkey-Syria
+[LOC_309] →  Zvyozdochka
+[LOC_30] →  Omaha
+[LOC_310] →  Izmir
+[LOC_311] →  Ankara
+[LOC_312] → Beijing
+[LOC_313] → China
+[LOC_314] →  Tianjin
+[LOC_315] →  Beijing
+[LOC_316] →  pital
+[LOC_317] →  Arimathea
+[LOC_318] →  Bethany
+[LOC_319] →  Judea
+[LOC_31] →  Nebraska
+[LOC_320] →  Magdala
+[LOC_321] →  Sea of Galilee
+[LOC_322] →  Galilee
+[LOC_323] →  Balkh
+[LOC_324] → Kabul
+[LOC_325] →  Edmund Pettus Bridge
+[LOC_326] →  Canada
+[LOC_327] →  John F
+[LOC_328] →  Kennedy International Airport
+[LOC_329] → Abu Dhabi
+[LOC_32] →  West Africa
+[LOC_330] →  Abu Dhabi
+[LOC_331] →  New York City
+[LOC_332] →  John F. Kennedy International Airport
+[LOC_333] →  Kennedy Airport
+[LOC_334] →  Kennedy
+[LOC_335] →  Fall River
+[LOC_336] →  Oval Office
+[LOC_337] →  New Hampshire
+[LOC_338] →  Nevada
+[LOC_339] →  New Jersey
+[LOC_33] →  Bethesda
+[LOC_340] →  Windy City
+[LOC_341] →  Louisville Appliance Park
+[LOC_342] → Cedar Falls
+[LOC_343] →  Cedar Falls
+[LOC_344] →  Cedar Rapids
+[LOC_345] →  Des Moines
+[LOC_346] →  Iow
+[LOC_347] →  Mandera
+[LOC_348] →  Westgate Mall
+[LOC_349] →  San Bruno
+[LOC_34] →  Atlanta
+[LOC_350] → Boston
+[LOC_351] →  Gulf of Mexico
+[LOC_352] →  Abkatun Permanente
+[LOC_353] →  Campeche Sound
+[LOC_354] →  Golgotha
+[LOC_355] →  Lucknow
+[LOC_356] →  Mumbai
+[LOC_357] →  Uttar Pradesh
+[LOC_358] →  Delhi
+[LOC_359] →  East Room
+[LOC_35] →  Guinea
+[LOC_360] →  Marseilles
+[LOC_361] →  Las Vegas
+[LOC_362] →  Hard Rock
+[LOC_363] →  Starland Ballroom
+[LOC_364] →  Sayreville
+[LOC_365] →  Monaco
+[LOC_366] →  Cannes
+[LOC_367] →  Kirkland
+[LOC_368] →  Rochelle
+[LOC_369] →  Fairdale
+[LOC_36] →  Liberia
+[LOC_370] →  Midwest
+[LOC_371] →  Iowa.
+[LOC_372] →  Louis.
+[LOC_373] →  Ashton
+[LOC_374] →  Illinois.
+[LOC_375] →  Rockford
+[LOC_376] →  Ogle County
+[LOC_377] →  S.C.
+[LOC_378] →  North Charleston
+[LOC_379] →  ston
+[LOC_37] →  Duke Chapel
+[LOC_380] →  Los Angeles International Airport
+[LOC_381] →  Beverly Hills
+[LOC_382] →  Clear Lake
+[LOC_383] →  Berkeley
+[LOC_384] →  Wyoming
+[LOC_385] →  New England
+[LOC_386] →  Hudson River Valley
+[LOC_387] →  Niagara Falls
+[LOC_388] →  Seattle
+[LOC_389] →  Big Apple
+[LOC_38] →  Durham
+[LOC_390] →  Clearwater
+[LOC_391] →  Bahamas
+[LOC_39] →  North Carolina
+[LOC_3] →  The Hague
+[LOC_40] →  Louisville
+[LOC_41] →  Kentucky
+[LOC_42] →  Pa
+[LOC_43] →  Pakistan
+[LOC_44] →  Peshawar
+[LOC_45] →  China
+[LOC_46] →  Xinjiang
+[LOC_47] →  Belarus
+[LOC_48] →  Vietnam
+[LOC_49] →  Egypt
+[LOC_4] →  Netherlands
+[LOC_50] →  Nigeria
+[LOC_51] →  Africa
+[LOC_52] →  Middle East
+[LOC_53] →  North Africa
+[LOC_54] →  Europe
+[LOC_55] →  Central Asia
+[LOC_56] →  Americas
+[LOC_57] →  Iraq
+[LOC_58] →  Saudi Arabia
+[LOC_59] →  Afghanistan
+[LOC_5] →  East Jerusalem
+[LOC_60] →  Bangladesh
+[LOC_61] →  North Korea
+[LOC_62] →  Sri Lanka
+[LOC_63] →  Los Angeles County
+[LOC_64] →  Philippines
+[LOC_65] →  Pacific Ocean
+[LOC_66] →  Aurora
+[LOC_67] →  Isabela
+[LOC_68] →  London
+[LOC_69] →  Luton
+[LOC_6] →  Israel
+[LOC_70] →  Istanbul
+[LOC_71] → London
+[LOC_72] →  Britain
+[LOC_73] →  Turkey
+[LOC_74] →  UK
+[LOC_75] →  Hollywood
+[LOC_76] →  Los Angeles
+[LOC_77] →  Bakersfield
+[LOC_78] →  Bergen-Belsen
+[LOC_79] →  Bergen-Belsen Memorial
+[LOC_7] →  Palestine
+[LOC_80] →  Amsterdam
+[LOC_81] →  Auschwitz-Birkenau
+[LOC_82] →  Germany
+[LOC_83] →  Indiana
+[LOC_84] →  America
+[LOC_85] →  Dallas
+[LOC_86] →  White House
+[LOC_87] →  Arkansas
+[LOC_88] →  Texas
+[LOC_89] →  Louisiana
+[LOC_8] → Palestine
+[LOC_90] →  Wisconsin
+[LOC_91] →  Massachusetts
+[LOC_92] →  Chicago
+[LOC_93] →  Minnesota
+[LOC_94] →  U.S
+[LOC_95] →  Indianapolis
+[LOC_96] →  Jordan
+[LOC_97] →  Indonesia
+[LOC_98] →  Equatorial Guinea
+[LOC_99] →  Somalia
+[LOC_9] →  Gaza
+[MISC_100] →  Ecuadorian
+[MISC_101] → Big Bang
+[MISC_102] →  The Standard Model
+[MISC_103] →  Big Bang
+[MISC_104] →  Swiss
+[MISC_105] →  European Council Directive
+[MISC_106] →  Taurus
+[MISC_107] →  Pacific Daylight Time
+[MISC_108] →  Pacific Time
+[MISC_109] →  Kenyan
+[MISC_10] →  New Year
+[MISC_110] →  Somalia-based
+[MISC_111] →  Koran
+[MISC_112] →  Somali
+[MISC_113] → Christian
+[MISC_114] →  Ethiopian
+[MISC_115] →  Ugandan
+[MISC_116] →  Islam
+[MISC_117] →  Easter
+[MISC_118] → Easter
+[MISC_119] →  Christmas
+[MISC_11] →  Holocaust
+[MISC_120] →  Holy Week
+[MISC_121] →  Palm Sund
+[MISC_122] →  Easter Sunday Mass
+[MISC_123] →  Romans
+[MISC_124] →  Bible
+[MISC_125] →  Urbi et Orbi
+[MISC_126] →  Biblical
+[MISC_127] →  Catholics
+[MISC_128] →  Armenian Christians
+[MISC_129] →  Resurrection
+[MISC_12] →  Iranian Revolution
+[MISC_130] →  Latin
+[MISC_131] →  Eastern Orthodox Christians
+[MISC_132] →  Western Christians
+[MISC_133] →  Julian
+[MISC_134] →  Good Friday
+[MISC_135] →  Passover
+[MISC_136] →  Gregorian
+[MISC_137] →  Orthodox Christians
+[MISC_138] →  Middle Ages
+[MISC_139] → De ovis paschalibus
+[MISC_13] →  Islamic
+[MISC_140] →  Easter eggs
+[MISC_141] →  Lent
+[MISC_142] →  Kool-Aid
+[MISC_143] → Blurred Lines
+[MISC_144] → One Sweet Day
+[MISC_145] → Uptown Funk!
+[MISC_146] →  Billboard Hot 100
+[MISC_147] →  Hot 100
+[MISC_148] → Somebody
+[MISC_149] → Funk
+[MISC_14] →  Americans
+[MISC_150] → Blurred
+[MISC_151] → Happy
+[MISC_152] → Candle
+[MISC_153] → Macarena
+[MISC_154] → End of the Road
+[MISC_155] → Uptown Funk!'
+[MISC_156] →  Digital Songs
+[MISC_157] → Funk!"
+[MISC_158] → Low
+[MISC_159] →  Streaming Songs
+[MISC_15] →  Ebola
+[MISC_160] →  Radio Songs
+[MISC_161] →  Radio Son
+[MISC_162] → Digital Songs
+[MISC_163] → Sugar
+[MISC_164] → Thinking Out Loud
+[MISC_165] → Loud
+[MISC_166] → Style
+[MISC_167] →  On-Demand Songs
+[MISC_168] →  Fifty Shades of Grey
+[MISC_169] → Earned It
+[MISC_16] →  Boston-base
+[MISC_170] → Fifty Shades of Grey
+[MISC_171] → Earned
+[MISC_172] →  Hot R&B/Hip-Hop Songs
+[MISC_173] →  Adult Pop Songs
+[MISC_174] → Trap Queen
+[MISC_175] →  Hot Rap Songs
+[MISC_176] → FourFiveSeconds
+[MISC_177] →  Rhythmic Songs
+[MISC_178] →  Hot Rock Songs
+[MISC_179] → Hot 100
+[MISC_17] →  Boston-based
+[MISC_180] →  Celsius
+[MISC_181] →  Argentine
+[MISC_182] →  South American
+[MISC_183] →  Native American
+[MISC_184] →  Sikh
+[MISC_185] → .
+[MISC_186] →  U
+[MISC_187] → S. Religious Freedom Restoration Act
+[MISC_188] →  RFRAs
+[MISC_189] →  American Indian
+[MISC_18] →  West African
+[MISC_190] →  Eagle Protection Act
+[MISC_191] →  Lipan Apache
+[MISC_192] →  Native Americans
+[MISC_193] →  First Amendment
+[MISC_194] →  RFRA
+[MISC_195] →  Brazilian
+[MISC_196] →  Controlled Substances Act
+[MISC_197] →  Amazonian
+[MISC_198] →  American Indians
+[MISC_199] →  Orthodox Jewish
+[MISC_19] → Strike Hard
+[MISC_1] →  Palestinian
+[MISC_200] →  Religious Land Use and Institutionalized Persons Act
+[MISC_201] →  2000
+[MISC_202] →  Sikhs
+[MISC_203] → S. Constitution
+[MISC_204] →  RLUIPA
+[MISC_205] →  Southern
+[MISC_206] → Freebird
+[MISC_207] →  Rock and Roll Hall of Fame
+[MISC_208] → S.-South Korean
+[MISC_209] →  South Korean
+[MISC_20] →  World Day against Death Penalty
+[MISC_210] →  South Korean-U.S
+[MISC_211] →  Indonesian
+[MISC_212] →  Briton
+[MISC_213] →  A320
+[MISC_214] →  Adventure Time
+[MISC_215] → Adventure Time
+[MISC_216] →  Airbus A320
+[MISC_217] →  Thai
+[MISC_218] →  T
+[MISC_219] → S
+[MISC_21] →  American
+[MISC_220] →  Espionage Act
+[MISC_221] →  Arab
+[MISC_222] →  Arabs
+[MISC_223] → S.-imposed
+[MISC_224] → S.-led
+[MISC_225] → Captain America: The Winter Soldier
+[MISC_226] → The Hunger Games Mockingjay — Part 1
+[MISC_227] → The Hunger Games: Catching Fire
+[MISC_228] → Fast & Furious 6
+[MISC_229] →  Memorial Day
+[MISC_22] →  Maysak
+[MISC_230] →  NFL
+[MISC_231] →  Virginia Constitution
+[MISC_232] →  Greek
+[MISC_233] → Space Invaders
+[MISC_234] → S.-based
+[MISC_235] →  Mixed Martial Arts
+[MISC_236] →  NBA
+[MISC_237] →  Buddhism
+[MISC_238] →  Izumo
+[MISC_239] →  World War II
+[MISC_23] → Filipinos
+[MISC_240] →  Yemeni
+[MISC_241] →  Saudi-led
+[MISC_242] →  Houthis
+[MISC_243] →  Shiites
+[MISC_244] →  Sunni
+[MISC_245] →  Yemenis
+[MISC_246] →  Houthi-
+[MISC_247] →  Houthi
+[MISC_248] →  Twin Peaks
+[MISC_249] → Twin Peaks
+[MISC_24] →  Asian
+[MISC_250] →  N
+[MISC_251] →  Final Four
+[MISC_252] →  Malaysian
+[MISC_253] →  southeast Asian
+[MISC_254] →  Philippines-based
+[MISC_255] →  African-Americans
+[MISC_256] →  Mercedes G500
+[MISC_257] →  Prius's
+[MISC_258] →  OxyContin
+[MISC_259] →  Food, Drug, and Cosmetic Act
+[MISC_25] →  Philippine
+[MISC_260] → FR33 CYALIS
+[MISC_261] → Patriots' Day
+[MISC_262] →  Boston Marathon
+[MISC_263] → Boston Strong
+[MISC_264] →  "Boston Strong
+[MISC_265] →  Hyundai Sonata
+[MISC_266] → Arrested Development
+[MISC_267] → Mad Men
+[MISC_268] → The Sopranos
+[MISC_269] → Breaking Bad
+[MISC_26] →  Chedeng
+[MISC_270] →  Woodstock
+[MISC_271] →  Vietnam War
+[MISC_272] →  WASP
+[MISC_273] →  "Good War
+[MISC_274] → Vampire Diaries
+[MISC_275] →  Turkish
+[MISC_276] → Turkish
+[MISC_277] →  Syrian
+[MISC_278] →  Westerners
+[MISC_279] →  Russian
+[MISC_27] → The Price Is Right
+[MISC_280] →  Valentine's Day
+[MISC_281] →  Eurovision Song Contest
+[MISC_282] →  Chinese
+[MISC_283] →  Communist
+[MISC_284] →  New Testament
+[MISC_285] →  Roman
+[MISC_286] →  Gospel of John
+[MISC_287] →  Early Christianity
+[MISC_288] →  the Second Commonwealth
+[MISC_289] →  Gospel of Luke
+[MISC_28] → Lucky Seven
+[MISC_290] →  Gospels
+[MISC_291] →  Gnostic
+[MISC_292] →  Christian Origins
+[MISC_293] →  Afghan
+[MISC_294] →  DREAM
+[MISC_295] →  Civil Rights Act
+[MISC_296] →  Voting Rights Act
+[MISC_297] →  African-American
+[MISC_298] →  Bloody Sunday
+[MISC_299] →  French-language
+[MISC_29] → Furious 7
+[MISC_2] →  Israelis
+[MISC_300] →  Abu Dhabi-based
+[MISC_301] →  Nike Air Jordan
+[MISC_302] →  Baptist
+[MISC_303] →  anti-Semitism
+[MISC_304] →  Catholic
+[MISC_305] →  Kenyans
+[MISC_306] →  Muslims
+[MISC_307] →  Mexican
+[MISC_308] →  Maundy Thursday
+[MISC_309] →  Judaism
+[MISC_30] →  "Fast and Furious
+[MISC_310] →  Crucifixion
+[MISC_311] →  Cruc
+[MISC_312] →  22nd Psalm
+[MISC_313] →  Easter Triduum
+[MISC_314] →  Great Res
+[MISC_315] →  Triduum
+[MISC_316] →  hristian
+[MISC_317] →  Holy Saturday
+[MISC_318] →  Indians
+[MISC_319] → Lost
+[MISC_31] →  Nazi
+[MISC_320] → Empire Records
+[MISC_321] → Rex Manning Day
+[MISC_322] → Titanic
+[MISC_323] →  Titanic
+[MISC_324] → Miss Congeniality
+[MISC_325] → Mean Girls Day
+[MISC_326] → Back to the Future Part II
+[MISC_327] →  Cannes Film F
+[MISC_328] →  Cannes Film Festival
+[MISC_329] → Grace of Monaco
+[MISC_32] →  Jewish
+[MISC_330] →  Berlin Film Festival
+[MISC_331] →  Grace of Monaco
+[MISC_332] →  Oscar
+[MISC_333] →  U.N.-sponsored
+[MISC_334] → Spanglish
+[MISC_335] → Sex and Lucia
+[MISC_336] → American Pie
+[MISC_337] → Bye, Bye, Miss American Pie
+[MISC_338] → American
+[MISC_339] → Tapestry
+[MISC_33] →  Dutch
+[MISC_340] →  New Yorker
+[MISC_341] → A
+[MISC_342] → The Times They Are A Changin
+[MISC_343] →  Peoples Almanac
+[MISC_344] → Evangeline
+[MISC_345] → Moon River
+[MISC_346] →  Americana
+[MISC_347] → On the Road
+[MISC_348] → Bye, Bye
+[MISC_349] →  Happening
+[MISC_34] →  Russians
+[MISC_350] → Danny Boy
+[MISC_351] → Streets of Laredo
+[MISC_352] → Shenandoah
+[MISC_353] →  Irish
+[MISC_354] → Over the Rainbow
+[MISC_355] → White Christmas
+[MISC_356] → Respect
+[MISC_357] → Pie
+[MISC_358] →  erican Pie
+[MISC_359] → Like a Rolling Stone
+[MISC_35] →  LGBT
+[MISC_360] → The Mindy Project
+[MISC_361] →  Indian-Americans
+[MISC_362] →  Hispanic
+[MISC_363] →  Indian-American
+[MISC_364] →  Asians
+[MISC_365] →  Indian American
+[MISC_366] →  African American
+[MISC_367] →  MCAT
+[MISC_368] →  Hispanics
+[MISC_369] → Hispanic
+[MISC_36] → LGBT
+[MISC_370] →  Scientology
+[MISC_371] → Going Clear
+[MISC_372] →  Scientologist
+[MISC_373] → Scientology
+[MISC_374] → The Forger
+[MISC_375] →  Hollywood
+[MISC_37] →  GOP
+[MISC_38] →  Republican
+[MISC_39] →  Republican National Convention
+[MISC_3] →  Palestinians
+[MISC_40] →  Cold War
+[MISC_41] →  Indiana RFRA
+[MISC_42] → Religious Freedom Restoration Act
+[MISC_43] →  Republicans
+[MISC_44] → The Star-Spangled Banner
+[MISC_45] → Girls, Girls, Girls
+[MISC_46] →  Arena Football League
+[MISC_47] →  Super Bowl XXV
+[MISC_48] →  Gulf War
+[MISC_49] →  American League Championship Series
+[MISC_4] →  Rome Statute
+[MISC_50] →  Democrats
+[MISC_51] →  French
+[MISC_52] →  Germanwings Flight 9525
+[MISC_53] →  German
+[MISC_54] →  Flight 9525
+[MISC_55] →  European
+[MISC_56] → Prayer
+[MISC_57] →  Christian
+[MISC_58] →  Christianity
+[MISC_59] →  Christians
+[MISC_5] →  Israeli
+[MISC_60] →  post-War American
+[MISC_61] →  Germanwings
+[MISC_62] →  German Wings
+[MISC_63] →  White House Christmas Party
+[MISC_64] →  Iranians
+[MISC_65] →  Additional Protocol
+[MISC_66] →  New START
+[MISC_67] →  Western
+[MISC_68] →  Internet
+[MISC_69] →  Islamic Revolution
+[MISC_6] →  Iranian
+[MISC_70] →  un-Islamic
+[MISC_71] →  Asian Cup
+[MISC_72] →  British-Iranian
+[MISC_73] → anti-Iran
+[MISC_74] →  Muslim
+[MISC_75] →  Uighur
+[MISC_76] →  Tibetan
+[MISC_77] →  Bangladeshi
+[MISC_78] →  Islamist
+[MISC_79] →  Islamists
+[MISC_7] →  English
+[MISC_80] →  Canadian
+[MISC_81] →  Lyme
+[MISC_82] →  L
+[MISC_83] →  Special Olympics
+[MISC_84] →  Bikram
+[MISC_85] →  British
+[MISC_86] → Israeli
+[MISC_87] →  Democrat
+[MISC_88] →  Democratic
+[MISC_89] →  R
+[MISC_8] →  Rosh Hashanah
+[MISC_90] →  Religious Freedom Restoration Act
+[MISC_91] →  GoFundMe
+[MISC_92] →  Indian
+[MISC_93] →  Hindu
+[MISC_94] →  Maharashtra Animal Preservation Bill
+[MISC_95] →  Japanese
+[MISC_96] → All Is Lost
+[MISC_97] → Life of Pi
+[MISC_98] →  German-flagged
+[MISC_99] →  Hawaiian
+[MISC_9] →  Jewish New Year
+[ORG_100] →  WAVY
+[ORG_101] →  Coast Guard
+[ORG_102] →  WPDE
+[ORG_103] → 
+CNN/DAILYMAIL
+[ORG_104] →  International Atomic Energy Agency
+[ORG_105] → .
+[ORG_106] →  U.N. Security Council
+[ORG_107] →  NATO
+[ORG_108] →  IAEA
+[ORG_109] →  U
+[ORG_10] →  CNN
+[ORG_110] → N
+[ORG_111] →  Security Council.
+[ORG_112] →  Hezbollah
+[ORG_113] →  Arizona State University
+[ORG_114] → S
+[ORG_115] →  Department of Agriculture
+[ORG_116] →  USDA
+[ORG_117] →  State Water Resources Control Board
+[ORG_118] →  Sacramento Bee
+[ORG_119] →  State Water Board
+[ORG_11] →  Washington State Uni
+[ORG_120] →  Wine Institute
+[ORG_121] →  ine Institute
+[ORG_122] →  FBI
+[ORG_123] →  ISIS
+[ORG_124] →  National Security Division
+[ORG_125] →  Homeland Security
+[ORG_126] →  Press TV
+[ORG_127] →  FIFA
+[ORG_128] →  Reuters
+[ORG_129] →  Court of Appeal
+[ORG_12] →  Washington State University
+[ORG_130] →  Facebook
+[ORG_131] →  Twitter
+[ORG_132] →  Central Provident Fund
+[ORG_133] →  Committee To Protect Journalists
+[ORG_134] →  The Malaysian Insider
+[ORG_135] →  Conference of Rulers
+[ORG_136] →  CPJ
+[ORG_137] →  Nickelback
+[ORG_138] →  Alliance Defending Freedom
+[ORG_139] →  iance Defending Freedom
+[ORG_13] →  WSU News
+[ORG_140] →  ACLU
+[ORG_141] →  Senate Intelligence Committee
+[ORG_142] →  CBS
+[ORG_143] →  Memories Pizza
+[ORG_144] →  WBND
+[ORG_145] → MemoriesPizza
+[ORG_146] →  Walkerton Police Dep
+[ORG_147] →  Walkerton Police Department
+[ORG_148] →  Memories simply
+[ORG_149] →  Malegaon Police
+[ORG_14] →  Good Samaritan Fund
+[ORG_150] → S. Coast Guard.
+[ORG_151] →  KHNL/KGMB
+[ORG_152] →  Kyodo News Agency
+[ORG_153] →  Japanese Maritime Self-Defense Force
+[ORG_154] →  Kyodo
+[ORG_155] →  Large Hadron Collider
+[ORG_156] → LHC
+[ORG_157] → -
+[ORG_158] →  European Organization for Nuclear Research
+[ORG_159] → CERN
+[ORG_15] →  Humane Society
+[ORG_160] →  LHC
+[ORG_161] →  CERN
+[ORG_162] →  CVS
+[ORG_163] →  NASA
+[ORG_164] →  NASA TV
+[ORG_165] → NASA_Marshall
+[ORG_166] →  CNN iReport
+[ORG_167] →  Al-Shabaab
+[ORG_168] →  Garissa University College
+[ORG_169] → . Al-Shabaab
+[ORG_16] →  House Minority
+[ORG_170] →  African Union
+[ORG_171] →  al-Qaeda
+[ORG_172] →  Islamic State
+[ORG_173] →  Al-Ittihad al-Islami
+[ORG_174] → Unity of Islam
+[ORG_175] →  U.N.
+[ORG_176] → the Youth
+[ORG_177] →  Unity of Islam
+[ORG_178] →  Islamic Courts Union
+[ORG_179] →  al-Qaeda in the Arabian Peninsula
+[ORG_17] →  San Francisco State University
+[ORG_180] → AQAP
+[ORG_181] →  The Conversation
+[ORG_182] →  World Council of Churches
+[ORG_183] →  UNC
+[ORG_184] →  University of North Carolina
+[ORG_185] →  The Drake Group
+[ORG_186] →  American Bar Association
+[ORG_187] →  American Medical Association
+[ORG_188] →  UCLA
+[ORG_189] →  Syracuse University
+[ORG_18] →  University of Denver
+[ORG_190] →  National College Players Association
+[ORG_191] →  Connecticut Department of Children and Families
+[ORG_192] →  Connecticut Supreme Court
+[ORG_193] →  Department of Children and Families
+[ORG_194] →  Department of Children 
+[ORG_195] →  RCA Records
+[ORG_196] →  Boyz II Men
+[ORG_197] →  Black Eyed Peas
+[ORG_198] → Bayside Boys
+[ORG_199] →  Los Del Rio
+[ORG_19] →  Foreign Ministry
+[ORG_1] → CNN/DAILYMAIL
+[ORG_200] →  Billboard
+[ORG_201] →  Nielsen Music
+[ORG_202] →  Maroon 5
+[ORG_203] →  Walk the Moon
+[ORG_204] →  World Meteorological Organization
+[ORG_205] →  Weather Underground
+[ORG_206] →  WTNH
+[ORG_207] →  IRS
+[ORG_208] →  Wayne State University
+[ORG_209] →  Fish and Wildlife Service
+[ORG_20] →  Iranian Diplomacy
+[ORG_210] →  America Bar Association Journal
+[ORG_211] →  Interior Department
+[ORG_212] →  5th U.S. Circuit Court of Appeals
+[ORG_213] →  Becket Fund for Religious Liberty
+[ORG_214] →  O Centro Espirita Beneficiente Uniao do Vegetal
+[ORG_215] →  U.S. Customs
+[ORG_216] →  Uniao do Vegetal
+[ORG_217] → the union of the plants
+[ORG_218] →  The Native American Church
+[ORG_219] →  UDV
+[ORG_21] →  Alavi Foundation
+[ORG_220] → S. Supreme Court
+[ORG_221] →  11th Circuit Court
+[ORG_222] →  Newar Law Firm
+[ORG_223] →  Becket Fund
+[ORG_224] →  Christian Science Monitor
+[ORG_225] →  Civil Liberties for Urban Believers
+[ORG_226] →  7th Circuit Court of Appeals
+[ORG_227] →  C.L.U.B.
+[ORG_228] →  League of California Cities
+[ORG_229] → . CNN
+[ORG_22] →  U.S
+[ORG_230] →  Lynyrd Skynyrd
+[ORG_231] →  Georgia State Patrol
+[ORG_232] →  Noble Five
+[ORG_233] →  Seoul Central District Court
+[ORG_234] →  Korean Council for Reconciliation and Cooperation
+[ORG_235] →  Yonhap
+[ORG_236] →  INE
+[ORG_237] →  Asian Migrant Coordinating Body
+[ORG_238] →  rdinating Body
+[ORG_239] →  Agence France-Presse
+[ORG_23] →  Justice Department
+[ORG_240] →  Trans7
+[ORG_241] →  Asian Migrant Co-ordinating Body
+[ORG_242] →  Bank of America Merrill Lynch
+[ORG_243] →  BoA
+[ORG_244] →  LinkedIn
+[ORG_245] →  Barclays
+[ORG_246] →  University of Cambridge
+[ORG_247] →  Thai Airways
+[ORG_248] →  Thai Smile
+[ORG_249] →  Cartoon Network
+[ORG_24] →  United Nations
+[ORG_250] →  Cartoon Network Amazone
+[ORG_251] →  Turner Broadcasting System
+[ORG_252] →  Turner Broadcasting
+[ORG_253] →  Fitzgibbon Media
+[ORG_254] →  The Guardian
+[ORG_255] →  Army
+[ORG_256] →  WikiLeaks
+[ORG_257] →  The New York Times
+[ORG_258] →  U.N
+[ORG_259] → Universal
+[ORG_25] → National Institutes of Health
+[ORG_260] →  Universal
+[ORG_261] →  The Hollywood Reporter
+[ORG_262] → Well Off
+[ORG_263] →  Southern Methodist University
+[ORG_264] →  Balenciaga
+[ORG_265] →  Rolling Stone
+[ORG_266] →  Columbia Journalism School
+[ORG_267] →  University of Virginia
+[ORG_268] →  Columbia
+[ORG_269] →  Phi Kappa Psi
+[ORG_26] →  Nebraska Medicine
+[ORG_270] →  UVA
+[ORG_271] →  Virginia Supreme Court
+[ORG_272] →  Philadelphia Phillies
+[ORG_273] →  Asahi Shimbun
+[ORG_274] →  Sophia University
+[ORG_275] →  Bloomberg Business
+[ORG_276] →  Liberal Democratic Party
+[ORG_277] →  Network Pushing for Normalization of Education
+[ORG_278] →  Japan Times
+[ORG_279] →  Blue Bell
+[ORG_27] →  Partners in Health
+[ORG_280] → Blue Bell
+[ORG_281] →  CDC
+[ORG_282] →  Blue Bell Creameries
+[ORG_283] →  Self Defense Force
+[ORG_284] → SDF
+[ORG_285] →  Air Self Defense Force
+[ORG_286] → ASDF
+[ORG_287] →  Diet
+[ORG_288] →  WWE
+[ORG_289] →  New Japan Pro Wrestling
+[ORG_28] →  Centers for Disease Control and Prevention
+[ORG_290] →  Upper House
+[ORG_291] →  Upper House Budget Committee
+[ORG_292] →  Defense Ministry Central Command
+[ORG_293] →  Agence France-Press
+[ORG_294] →  International Committee of the Red Cross
+[ORG_295] →  ICRC
+[ORG_296] →  al Qaeda in the Arabian Peninsula
+[ORG_297] →  AQAP
+[ORG_298] → Showtime
+[ORG_299] →  Showtime Network
+[ORG_29] →  World Health Organization
+[ORG_2] →  ICC
+[ORG_300] →  Showtime
+[ORG_301] →  University of Kentucky
+[ORG_302] →  Wisconsin
+[ORG_303] →  Wildcats
+[ORG_304] →  Kentucky
+[ORG_305] →  Associated Press
+[ORG_306] →  Jemaah Islamiyah
+[ORG_307] →  Abu Sayyaf
+[ORG_308] →  Moro Islamic Liberation Front
+[ORG_309] → MILF
+[ORG_30] →  Duke University
+[ORG_310] →  Special Action Force
+[ORG_311] → SAF
+[ORG_312] →  Force
+[ORG_313] →  Bangsamoro Islamic Freedom Fighters
+[ORG_314] → BIFF
+[ORG_315] →  Institute for Policy Analysis of Conflict
+[ORG_316] → IPAC
+[ORG_317] →  BIFF
+[ORG_318] →  SAF
+[ORG_319] →  MILF
+[ORG_31] →  Duke
+[ORG_320] →  IPAC
+[ORG_321] →  Philippines Congress
+[ORG_322] →  EPA
+[ORG_323] → U.S. Justice Department
+[ORG_324] → S. Environmental Protection Agency
+[ORG_325] →  EPA.
+[ORG_326] →  Sea Glass Vacations
+[ORG_327] →  Terminix
+[ORG_328] → Sea Glass Vacations
+[ORG_329] → S. Department of Justice
+[ORG_32] →  University of Oklahoma
+[ORG_330] →  U.S. Securities and Exchange Commission
+[ORG_331] →  ServiceMaster Global Holdings
+[ORG_332] →  Terminix.
+[ORG_333] →  SEC
+[ORG_334] →  Bureau of Justice Statistics
+[ORG_335] →  HBO
+[ORG_336] →  Lamborghini
+[ORG_337] →  Xinhua
+[ORG_338] →  ote
+[ORG_339] →  PX
+[ORG_33] →  University of Mississippi
+[ORG_340] →  FedEx
+[ORG_341] →  United States Department of Justice
+[ORG_342] →  UPS
+[ORG_343] →  Greyhound
+[ORG_344] →  Grateful Dead
+[ORG_345] →  Department of Justice
+[ORG_346] →  Drug Enforcement Administration
+[ORG_347] →  Food and Drug Administration
+[ORG_348] →  Internet
+[ORG_349] →  DOJ
+[ORG_34] →  Eastern High School
+[ORG_350] →  Deadline
+[ORG_351] →  CBS Films
+[ORG_352] →  CBS News
+[ORG_353] → 60 Minutes
+[ORG_354] →  Fox
+[ORG_355] →  DAILYMAIL
+[ORG_356] →  Middlesex District Attorney's Office
+[ORG_357] →  Office of the Chief Medical Examiner
+[ORG_358] →  Cambridge Police Department
+[ORG_359] → Netflix
+[ORG_35] →  Ball State
+[ORG_360] →  Netflix
+[ORG_361] →  Rolling Stones
+[ORG_362] →  Sterling Cooper & Partners
+[ORG_363] →  AMC
+[ORG_364] →  Miracle Mets
+[ORG_365] →  Sterling Cooper
+[ORG_366] →  terling Cooper
+[ORG_367] →  IBM
+[ORG_368] →  Cutler Gleason and Chaough
+[ORG_369] →  McCann Erickson
+[ORG_36] →  Eastern
+[ORG_370] →  Lucky Strike
+[ORG_371] →  CW
+[ORG_372] →  TVD
+[ORG_373] →  FabIndia
+[ORG_374] → FabIndia
+[ORG_375] → UK Foreign Office
+[ORG_376] →  Foreign Office
+[ORG_377] →  ITAR-Tass
+[ORG_378] →  Tass
+[ORG_379] →  RIA Novosti
+[ORG_37] →  Best Buddies
+[ORG_380] →  Zvyozdochka
+[ORG_381] →  Anadolu Agency
+[ORG_382] →  Chinese Communist Party
+[ORG_383] →  Supreme People's Procuratorate
+[ORG_384] →  Communist Party
+[ORG_385] →  Pol
+[ORG_386] →  Politburo Standing Committee
+[ORG_387] →  Chinese University of Hong Kong
+[ORG_388] →  Chongqing Communist Part
+[ORG_389] →  Chongqing Communist Party
+[ORG_38] →  Amnesty
+[ORG_390] →  Hebrew Union College
+[ORG_391] →  Kentucky State Senate
+[ORG_392] →  U.S. Senate
+[ORG_393] →  Department of Education
+[ORG_394] → ISIS
+[ORG_395] →  TV5Monde
+[ORG_396] →  BFMTV
+[ORG_397] →  Ministry of Culture and Communications
+[ORG_398] →  Wallonia-Brussels Federation
+[ORG_399] →  France 2
+[ORG_39] → 
+Orga
+[ORG_3] → CNN
+[ORG_400] →  France 3
+[ORG_401] →  France 24
+[ORG_402] →  R
+[ORG_403] →  Radio France International
+[ORG_404] →  Etihad Airways
+[ORG_405] →  American Airlines
+[ORG_406] →  Port Authority of Ne
+[ORG_407] →  Port Authority of New York and New Jersey
+[ORG_408] →  Port Authority
+[ORG_409] →  New England Patriot
+[ORG_40] →  Amnesty International
+[ORG_410] →  New England Patriots
+[ORG_411] →  City Council
+[ORG_412] →  General Electric Appliance Park
+[ORG_413] →  GE
+[ORG_414] →  Liberty University
+[ORG_415] →  Des Moines Register/Bloomberg Politics
+[ORG_416] →  Fox News
+[ORG_417] →  NBC
+[ORG_418] →  National Security Agency
+[ORG_419] →  Ethics & Religious Liberty Commission
+[ORG_41] →  Los Angeles Police Department
+[ORG_420] →  Southern Baptist Convention
+[ORG_421] →  Iowa Faith and Freedom Coalition
+[ORG_422] →  Interior Ministry
+[ORG_423] →  Pacific Gas & Electric Co.
+[ORG_424] →  California Public Utilities Commission
+[ORG_425] → PG&E
+[ORG_426] →  CPUC
+[ORG_427] →  PG&E
+[ORG_428] →  National Transportation Safety Board
+[ORG_429] →  Los Angeles Times
+[ORG_42] →  KTLA
+[ORG_430] →  Southern California Edison Company
+[ORG_431] →  Pemex
+[ORG_432] →  Secret Service
+[ORG_433] →  The Washington Post
+[ORG_434] →  n Post
+[ORG_435] →  Capitol City Brewing Company
+[ORG_436] →  Post
+[ORG_437] →  House Appropriations Committee
+[ORG_438] →  Office of the Inspector General
+[ORG_439] → Germanwings
+[ORG_43] →  Forbes
+[ORG_440] →  High Mountain Gendarmerie
+[ORG_441] →  ABC
+[ORG_442] →  Twisted Sister
+[ORG_443] → Twisted Sister
+[ORG_444] →  Adrenaline Mob
+[ORG_445] → The Hollywood Reporter
+[ORG_446] →  Lifetime
+[ORG_447] →  The Weinstein Co
+[ORG_448] →  THR
+[ORG_449] →  TWC
+[ORG_44] →  Getty
+[ORG_450] →  The Weinstein Co.
+[ORG_451] →  Storm Prediction Center
+[ORG_452] →  Grubsteakers
+[ORG_453] →  WREX
+[ORG_454] →  National Weather Service
+[ORG_455] →  North Charleston Police Department
+[ORG_456] →  North Charleston Police
+[ORG_457] →  Post and Courier of Charleston
+[ORG_458] →  South Carolina Law Enforcement Division
+[ORG_459] →  EMS
+[ORG_45] →  Texaco
+[ORG_460] →  Beverly Hills Police
+[ORG_461] →  Christie's
+[ORG_462] →  Recording Industry of America
+[ORG_463] →  National Endowment of the Arts
+[ORG_464] →  University of Chicago
+[ORG_465] →  St
+[ORG_466] →  Louis University
+[ORG_467] →  School of Medicine
+[ORG_468] → . Harvard
+[ORG_469] →  University of Pennsylvania
+[ORG_46] →  PNA
+[ORG_470] →  Tampa Bay Times
+[ORG_471] →  Church of Scientology
+[ORG_47] →  Philippine Atmospheric, Geophysical and Astronomical Services Administration
+[ORG_48] → PAGASA
+[ORG_49] →  Metropolitan Police
+[ORG_4] →  Palestinian Authority
+[ORG_50] → Today
+[ORG_51] →  People
+[ORG_52] →  Red Cross
+[ORG_53] →  In
+[ORG_54] →  International Training Service
+[ORG_55] →  Bloomberg
+[ORG_56] →  Americans for Prosperity
+[ORG_57] →  Chamber of Commerce
+[ORG_58] →  American Civil Liberties Union
+[ORG_59] →  Gallup
+[ORG_5] →  International Criminal Court
+[ORG_60] →  Congress
+[ORG_61] →  Supreme Court
+[ORG_62] →  House
+[ORG_63] →  Senate
+[ORG_64] →  AILYMAIL
+[ORG_65] →  Mötley Crüe
+[ORG_66] →  Las Vegas Outlaws
+[ORG_67] →  San Diego Padres
+[ORG_68] →  Walmart
+[ORG_69] → Walmart
+[ORG_6] →  Human Rights Watch
+[ORG_70] →  Apple
+[ORG_71] →  NCAA
+[ORG_72] →  Sam's Club
+[ORG_73] →  Party
+[ORG_74] →  Financial Services Roundtable
+[ORG_75] →  Republican Party
+[ORG_76] →  Walmart PAC
+[ORG_77] →  Center for Responsive Politics
+[ORG_78] →  Wall Street Journal/NBC News
+[ORG_79] →  Chick-fil-A
+[ORG_7] →  State Department
+[ORG_80] →  McMillanDoolittle
+[ORG_81] →  Angie's List
+[ORG_82] →  NASCAR
+[ORG_83] →  Human Rights Campaign
+[ORG_84] →  Little Rock Regional Chamber of Commerce
+[ORG_85] →  Bild
+[ORG_86] →  Paris Match
+[ORG_87] →  Lufthansa
+[ORG_88] →  Par
+[ORG_89] →  BEA
+[ORG_8] →  Hamas
+[ORG_90] →  Germanwings
+[ORG_91] →  Criminal Research Institute
+[ORG_92] → Hour of Power
+[ORG_93] →  Hope College and Western Theological Seminary
+[ORG_94] →  Wheaton College
+[ORG_95] →  Dartmouth College
+[ORG_96] →  Roman Catholic Church
+[ORG_97] →  Crystal Cathedral Ministries
+[ORG_98] →  The Associated Press
+[ORG_99] →  Washington Free Beacon
+[ORG_9] →  ternational Criminal Court
+[PER_100] →  Blitz
+[PER_101] → Cruz
+[PER_102] →  Huckabee
+[PER_103] →  Jindal
+[PER_104] →  Carson
+[PER_105] →  Bloomber
+[PER_106] →  Mike Pence
+[PER_107] →  Koch
+[PER_108] →  Pence
+[PER_109] →  Jeb Bush
+[PER_10] →  Sara Mellado
+[PER_110] →  Asa Hutchinson
+[PER_111] →  Pat Buchanan
+[PER_112] → George H.W. Bush
+[PER_113] →  Ted Cruz
+[PER_114] →  Bush
+[PER_115] →  Cruz
+[PER_116] →  Mike Huckabee
+[PER_117] →  Bobby Jindal
+[PER_118] →  Scott Walker
+[PER_119] →  Ben Carson
+[PER_11] →  Mellado
+[PER_120] →  Barney Frank
+[PER_121] →  Frank
+[PER_122] → Whitney Houston
+[PER_123] →  Roseanne Barr
+[PER_124] →  Vince
+[PER_125] →  Whitney
+[PER_126] →  Roseanne
+[PER_127] →  Jimi
+[PER_128] →  Michael
+[PER_129] →  Vince Neil
+[PER_12] →  Mohammad Javad Zarif
+[PER_130] →  Neil
+[PER_131] →  Whitney Houston
+[PER_132] →  George H
+[PER_133] →  W. Bush
+[PER_134] →  Jimi Hendrix
+[PER_135] →  Michael Bolton
+[PER_136] →  Bolton
+[PER_137] →  Tim Cook
+[PER_138] →  Tim Pawlenty
+[PER_139] →  Pawlenty
+[PER_13] →  John Kerry
+[PER_140] →  Doug McMillon
+[PER_141] →  Dwight Hill
+[PER_142] →  Hill
+[PER_143] →  Bill Oesterle
+[PER_144] →  Mitch Daniels
+[PER_145] →  Oesterle
+[PER_146] →  Jason Rahlan
+[PER_147] →  Hillary Clinton
+[PER_148] →  Hutchinson
+[PER_149] →  Jay Chesshir
+[PER_14] →  Zarif
+[PER_150] →  Chesshir
+[PER_151] → Salil Shetty
+[PER_152] → Andreas Lubitz
+[PER_153] →  Brice Robin
+[PER_154] →  Robin
+[PER_155] →  Julian Reichelt
+[PER_156] →  Jean-Marc Menichini
+[PER_157] →  Menichini
+[PER_158] →  Reichelt
+[PER_159] →  Andreas Lubitz
+[PER_15] → Mohammad Javad Zarif
+[PER_160] →  Lubitz
+[PER_161] →  Carsten Spohr
+[PER_162] →  Spohr
+[PER_163] →  Francois Hollande
+[PER_164] →  Christoph Kumpa
+[PER_165] →  Kumpa
+[PER_166] →  Brian Russell
+[PER_167] →  Margot Haddad
+[PER_168] →  Pamela Brown
+[PER_169] →  Laura Smith-Spark
+[PER_16] →  Christine Pelosi
+[PER_170] →  Frederik Pleitgen
+[PER_171] →  Pamela Boykoff
+[PER_172] →  Antonia Mortensen
+[PER_173] →  Sandrine Amiel
+[PER_174] →  Anna-Maja Rappard
+[PER_175] → . Robert Schuller
+[PER_176] →  Robert H. Schuller
+[PER_177] →  Schuller
+[PER_178] →  Donna Schuller
+[PER_179] →  Arvella
+[PER_17] →  Nancy Pelosi
+[PER_180] →  Schullers
+[PER_181] →  Norman Vincent Peale
+[PER_182] →  Timothy Larsen
+[PER_183] →  Larsen
+[PER_184] →  Randall Balmer
+[PER_185] →  Balmer
+[PER_186] →  Rick Warren
+[PER_187] →  Bill Hybels
+[PER_188] →  Bobby Jr
+[PER_189] →  Bobby Schuller Jr.
+[PER_18] →  Pelosi
+[PER_190] →  Bobby
+[PER_191] →  Stella Chan
+[PER_192] →  Obama
+[PER_193] → Bachmann
+[PER_194] → Michele Bachmann
+[PER_195] →  Barack Obama
+[PER_196] →  Melissa Coca
+[PER_197] →  Michael J Pristash
+[PER_198] →  Lynda Anderson
+[PER_199] →  Bachmann
+[PER_19] →  Mahmoud Ahmadinejad
+[PER_1] →  Riad al-Malki
+[PER_200] →  Michele
+[PER_201] → 
+Louis Jordan
+[PER_202] →  Thom
+[PER_203] →  Thomas Grenz
+[PER_204] →  Louis Jordan
+[PER_205] →  Jordan
+[PER_206] →  Frank Jordan
+[PER_207] →  Jim Sciutto
+[PER_208] →  Jo
+[PER_209] →  Jordans
+[PER_20] →  Ahmadinejad
+[PER_210] →  Wolf Blitzer
+[PER_211] →  Kyle McCollum
+[PER_212] →  Grenz
+[PER_213] →  Derriel Morris
+[PER_214] →  Morris
+[PER_215] →  Jeff Weeks
+[PER_216] →  Richard Klass
+[PER_217] →  John Boehner
+[PER_218] →  Netanyahu
+[PER_219] →  Jerry Brown
+[PER_21] →  Hassan Rouhami
+[PER_220] →  Timothy Richards
+[PER_221] →  Annemarie Kuhns
+[PER_222] →  Kuhns
+[PER_223] →  Felicia Marcus
+[PER_224] →  Gladys Horiuchi
+[PER_225] →  Keonna Thomas
+[PER_226] → Thomas
+[PER_227] → Young Lioness
+[PER_228] → Fatayat Al Khilafah
+[PER_229] →  ALLAH
+[PER_22] →  Kerry
+[PER_230] →  Thomas
+[PER_231] →  Noelle Velentzas
+[PER_232] →  Asia Siddiqui
+[PER_233] →  Jeh Johnson
+[PER_234] →  Abdolhamid Ahmadi
+[PER_235] →  Ahmadi
+[PER_236] →  Mohammad Khatami
+[PER_237] →  Sepp Blatter
+[PER_238] →  Ghoncheh Ghav
+[PER_239] →  Ghoncheh Ghavami
+[PER_23] →  Taylor Wilson
+[PER_240] →  Ghavami
+[PER_241] →  Annie Ramos
+[PER_242] →  Amos Yee
+[PER_243] → Lee Kuan Yew
+[PER_244] →  anti-Lee Kuan Yew
+[PER_245] →  Lee Kuan Yew
+[PER_246] →  Yee
+[PER_247] →  Roy Ngerng
+[PER_248] →  Lee Hsien Loong
+[PER_249] →  Ngerng
+[PER_24] →  Richard Brodhead
+[PER_250] →  Nguyen Dinh Ngoc
+[PER_251] →  Nguyen Quang Lap
+[PER_252] →  Hong Le Tho
+[PER_253] →  Washiqur Rahman Babu
+[PER_254] →  Avijit Roy
+[PER_255] →  Rafida Ahmed Bonna
+[PER_256] →  Roy
+[PER_257] →  Rahman
+[PER_258] →  Asif Mohiuddin
+[PER_259] →  Ahmed Rajib Haider
+[PER_25] →  Larry Moneta
+[PER_260] → Lavigne
+[PER_261] →  Avril Lavigne
+[PER_262] →  Chad Kroeger
+[PER_263] →  Lavigne
+[PER_264] →  Mike Tyson
+[PER_265] →  champ
+[PER_266] →  Tyson
+[PER_267] →  Alisyn Camerota
+[PER_268] →  Bikram
+[PER_269] →  lisyn Camerota
+[PER_26] →  Dave Alsup
+[PER_270] →  Bikram Choudhury
+[PER_271] →  Sarah Baughn
+[PER_272] →  Choudhury
+[PER_273] →  Karl Penhaul
+[PER_274] →  Jean Varrieras
+[PER_275] →  Penhaul
+[PER_276] →  Penn Jillette
+[PER_277] →  Don Lemon
+[PER_278] →  Jillette
+[PER_279] →  Kristen Waggoner
+[PER_27] →  Trey Moses
+[PER_280] →  Rita Sklar
+[PER_281] →  Jim Acosta
+[PER_282] →  'd
+[PER_283] →  Dianne Feinstein
+[PER_284] →  Feinstein
+[PER_285] →  Ernest Moniz
+[PER_286] →  Lindsey Graham
+[PER_287] →  Rand Paul
+[PER_288] → Hillary Clinton
+[PER_289] →  Graham
+[PER_28] →  Ellie Meredith
+[PER_290] →  Crystal O'Connor
+[PER_291] →  RiskyLiberal
+[PER_292] →  Aღanda
+[PER_293] →  Rob Katz
+[PER_294] →  Jessica Dooley
+[PER_295] →  Charles Kulp
+[PER_296] →  Jason Narducy
+[PER_297] →  Narducy
+[PER_298] →  Victor Nikki
+[PER_299] →  Savannah
+[PER_29] →  Trey
+[PER_2] →  Kuniko Ozaki
+[PER_300] →  Lawrence Billy Jones II
+[PER_301] →  O'Connors
+[PER_302] →  Kevin O'Connor
+[PER_303] →  Rob Frehse
+[PER_304] →  Melanie Whitley
+[PER_305] →  Mahesh Sawai
+[PER_306] →  Rajnath Singh
+[PER_307] →  Robert Redford
+[PER_308] →  Ang Lee
+[PER_309] →  Jose Salvador Alvarenga
+[PER_30] →  Ellie
+[PER_310] →  Alvarenga
+[PER_311] →  Castaway
+[PER_312] →  Ezequiel Cordova
+[PER_313] →  God
+[PER_314] →  Ron Ingraham
+[PER_315] →  Zakary
+[PER_316] →  Rambo
+[PER_317] →  Zakary Ingraham
+[PER_318] →  Adrian Vasquez
+[PER_319] →  Vasquez
+[PER_31] → .
+[PER_320] →  Nilsa de la Cruz
+[PER_321] →  Vazquez
+[PER_322] →  Freddy Garcia Calle
+[PER_323] →  Calle
+[PER_324] →  Hiromitsu Shinkawa
+[PER_325] →  Shinkawa
+[PER_326] →  Rolf Heuer
+[PER_327] →  Mike Lamont
+[PER_328] →  Lamont
+[PER_329] →  Frédérick Bordry
+[PER_32] →  Trina Helson
+[PER_330] →  Peter Shadbolt
+[PER_331] →  Kevone Charleston
+[PER_332] →  Charleston
+[PER_333] →  Stephen Emmett
+[PER_334] →  Emmett
+[PER_335] →  Robin Regan
+[PER_336] →  Vivian Kuo
+[PER_337] →  Ryan Scallan
+[PER_338] →  Mitzi Adams
+[PER_339] →  Stefan Wolff
+[PER_33] →  Taylor Swift
+[PER_340] →  Siad Barre
+[PER_341] →  Garissa
+[PER_342] →  Christ
+[PER_343] →  Santa Claus
+[PER_344] →  Jesus
+[PER_345] →  Messiah
+[PER_346] →  Pope Francis
+[PER_347] →  Francis
+[PER_348] →  Georg Franck von Frankenau
+[PER_349] →  von Frankenau
+[PER_34] →  Darla Meredith
+[PER_350] →  Grant Thompson
+[PER_351] →  Thompson
+[PER_352] →  Gerald Gurney
+[PER_353] →  Gurney
+[PER_354] →  Donald Remy
+[PER_355] →  Mary Willingham
+[PER_356] →  Willingham
+[PER_357] →  Mark Emmert
+[PER_358] →  Ed O'Bannon
+[PER_359] →  Jeffrey Kessler
+[PER_35] →  James Whitford
+[PER_360] →  Michael Hausfeld
+[PER_361] →  O'Bannon
+[PER_362] →  Rick Burton
+[PER_363] →  Ramogi Huma
+[PER_364] → Cassandra C.
+[PER_365] →  Josh Michtom.
+[PER_366] → Cassandra C
+[PER_367] →  Michtom
+[PER_368] →  Michael Taylor
+[PER_369] →  Cassandra
+[PER_36] →  Shelly Moses
+[PER_370] →  Jackie Fortin
+[PER_371] →  Hodg
+[PER_372] →  Taylor
+[PER_373] →  Joette Katz
+[PER_374] →  Robin Thicke
+[PER_375] →  Thicke
+[PER_376] → Mark Ronson
+[PER_377] →  Bruno Mars
+[PER_378] →  Natalie La Rose
+[PER_379] →  Jeremih.
+[PER_37] → Trey
+[PER_380] →  T.I.
+[PER_381] →  Pharrell
+[PER_382] →  Ronson
+[PER_383] →  Mars
+[PER_384] →  T
+[PER_385] → I
+[PER_386] →  Pharrell Williams
+[PER_387] →  Rihanna
+[PER_388] →  Calvin Harris
+[PER_389] →  Mariah Carey
+[PER_38] → Ellie
+[PER_390] →  Elton John
+[PER_391] →  Brandy
+[PER_392] →  Monica
+[PER_393] →  Flo Rida
+[PER_394] →  T-Pain
+[PER_395] →  Ed Sheeran
+[PER_396] →  Sheeran
+[PER_397] →  Ellie Goulding
+[PER_398] →  The Weeknd
+[PER_399] →  Fetty Wap
+[PER_39] →  Salil Shetty
+[PER_3] →  Balkees Jarrah
+[PER_400] →  Kanye West
+[PER_401] →  Paul McCartney
+[PER_402] →  Sage the Gemini
+[PER_403] →  Lookas
+[PER_404] →  La Rose
+[PER_405] →  Jeremih
+[PER_406] → Jeremih
+[PER_407] →  Jason Derulo
+[PER_408] →  Randy Cerveny
+[PER_409] →  Cerveny
+[PER_40] →  Audrey
+[PER_410] →  Christopher Lund
+[PER_411] →  Robert Soto
+[PER_412] →  Michael Russell
+[PER_413] →  Soto
+[PER_414] →  Russell
+[PER_415] →  Luke Goodrich
+[PER_416] →  Jeffrey Toobin
+[PER_417] →  Toobin
+[PER_418] →  Bruce Rich
+[PER_419] →  Rich
+[PER_41] →  Audrey Gaughran
+[PER_420] →  Kawal Tagore
+[PER_421] →  Tagore
+[PER_422] →  Theodore Wilkinson
+[PER_423] →  Alexandra Meeks
+[PER_424] →  Robert Lewis Burns Jr.
+[PER_425] → Robert Lewis Burns Jr
+[PER_426] →  Burns
+[PER_427] →  James Tallent
+[PER_428] →  Tallent
+[PER_429] → . Burns
+[PER_42] →  Gaughran
+[PER_430] →  Ronnie Van Zant
+[PER_431] →  Gary Rossington
+[PER_432] →  Allen Collins
+[PER_433] →  Larry Junstrom
+[PER_434] →  Van Zant
+[PER_435] →  Rossington
+[PER_436] →  Bob
+[PER_437] →  Kim Ki-Jong
+[PER_438] →  Mark Lippert
+[PER_439] →  Kim
+[PER_43] →  Ban Ki-moon
+[PER_440] →  Lippert
+[PER_441] →  Jung Nam-shik
+[PER_442] →  Yoon Myeong-seong
+[PER_443] →  m
+[PER_444] →  Park Geun-hye
+[PER_445] →  Madison Park
+[PER_446] →  Greg Botelho
+[PER_447] →  Rurik Jutting
+[PER_448] →  Jutting
+[PER_449] →  Seneng Mujiasih
+[PER_44] →  Andrew Getty
+[PER_450] →  Sumarti Ningsih
+[PER_451] →  Jumiati
+[PER_452] →  Ningsih
+[PER_453] →  Ahmad Khaliman
+[PER_454] →  Khaliman
+[PER_455] →  Jesse Lorena
+[PER_456] →  Mujiasih
+[PER_457] → Jake
+[PER_458] →  Finn
+[PER_459] →  Ice King
+[PER_45] →  Getty
+[PER_460] →  Marceline
+[PER_461] →  Vampire Queen
+[PER_462] →  Jake
+[PER_463] →  Bubblegum
+[PER_464] →  Manning
+[PER_465] →  Chelsea Manning
+[PER_466] →  Bradley Manning
+[PER_467] →  Chelsea Elizabeth Manning
+[PER_468] →  Frida Ghitis
+[PER_469] →  David Rothkopf
+[PER_46] → Andrew Getty
+[PER_470] →  Yukiya Amano
+[PER_471] →  James Wan
+[PER_472] →  Chris Morgan
+[PER_473] →  Brian O'Conner
+[PER_474] →  Dominic Toretto
+[PER_475] →  Michelle Rodriguez
+[PER_476] →  Tyrese Gibson
+[PER_477] →  Jason Statham
+[PER_478] →  Deckard Shaw
+[PER_479] →  Dwayne Johnson
+[PER_47] →  J
+[PER_480] →  Hobbs
+[PER_481] →  Deion Sanders
+[PER_482] →  Huxtable
+[PER_483] → Deion Sanders
+[PER_484] →  Deion Sanders Jr
+[PER_485] →  Sanders
+[PER_486] → Huxtable
+[PER_487] →  Junior
+[PER_488] →  Sanders Jr
+[PER_489] → Danny Cevallos
+[PER_48] →  Paul Getty
+[PER_490] →  Will Dana
+[PER_491] →  Brian Stelter
+[PER_492] →  Kollman
+[PER_493] →  Aunt Edna
+[PER_494] →  Toshitake Kuwahara
+[PER_495] →  Gon Matsunaka
+[PER_496] →  Matsunaka
+[PER_497] →  Taiga Ishikawa
+[PER_498] →  Ishikawa
+[PER_499] →  Mari Miura
+[PER_49] →  Meghan Aguilar
+[PER_4] →  Benjamin Netanyahu
+[PER_500] →  Miura
+[PER_501] →  Shinzo Abe
+[PER_502] →  Chie Kobayashi
+[PER_503] →  Paul Kruse
+[PER_504] →  Debra Goldschmidt
+[PER_505] →  Amanda Watts
+[PER_506] →  Jacque Wilson
+[PER_507] →  Antonio Inoki
+[PER_508] →  Nakatani
+[PER_509] →  Inoki
+[PER_50] →  Aguilar
+[PER_510] →  Muhammad Ali
+[PER_511] →  Dennis Rodman
+[PER_512] →  Shigeru Ishiba
+[PER_513] →  Abdu Rabu Mansour Hadi
+[PER_514] →  Hussein Khairan
+[PER_515] →  Khairan
+[PER_516] →  Hadi
+[PER_517] →  Robert Mardini
+[PER_518] →  Marie-Cl
+[PER_519] →  Marie-Claire Feghali
+[PER_51] →  Ed Winter
+[PER_520] →  Feghali
+[PER_521] →  David Lynch
+[PER_522] →  Lynch
+[PER_523] →  Mark Frost
+[PER_524] →  Laura Palmer
+[PER_525] →  David
+[PER_526] →  Kyle MacLachlan
+[PER_527] →  Dale Cooper
+[PER_528] → 
+Andrew Harrison
+[PER_529] →  Frank Kaminsk
+[PER_52] →  Ann
+[PER_530] →  Frank Kaminsky
+[PER_531] → Kaminsky
+[PER_532] →  Harrison
+[PER_533] →  Andrew Harrison
+[PER_534] →  Kaminsky
+[PER_535] → 
+Marwan
+[PER_536] →  Marwan
+[PER_537] →  Zulkifli bin Hir
+[PER_538] →  Zulkifli Abdhir
+[PER_539] →  David Bowdich
+[PER_53] →  Gordon Getty
+[PER_540] →  owdich
+[PER_541] →  Bowdich
+[PER_542] →  Arlene Samson-Espiritu
+[PER_543] →  Kathy Quiano
+[PER_544] →  Elias Rodriguez
+[PER_545] →  Rodriguez
+[PER_546] →  Judith A
+[PER_547] →  Enck
+[PER_548] →  Terminix
+[PER_549] →  James Maron
+[PER_54] →  don Getty
+[PER_550] →  Chris Rock
+[PER_551] →  Eric Garner
+[PER_552] →  Michael Brown
+[PER_553] →  Rock
+[PER_554] →  Isaiah Washington
+[PER_555] →  Washington
+[PER_556] →  YeshaCallahan
+[PER_557] →  Jerry Seinfeld
+[PER_558] →  Seinfeld
+[PER_559] →  Mark Wahlberg
+[PER_55] →  Gettys
+[PER_560] →  Wahlberg
+[PER_561] →  Ed Davis
+[PER_562] →  Davis
+[PER_563] →  Manuela Arbelaez
+[PER_564] →  Manuela
+[PER_565] →  Arbelaez
+[PER_566] →  Carlos Colina
+[PER_567] →  Jonathan Camilien
+[PER_568] →  Colina
+[PER_569] →  Marian Ryan
+[PER_56] →  Doug Criss
+[PER_570] →  Camilien
+[PER_571] →  Andreas Preuss
+[PER_572] → Brian Grazer
+[PER_573] →  Bluth
+[PER_574] →  Brian Grazer
+[PER_575] →  Bill Simmons
+[PER_576] →  Jason Bateman
+[PER_577] →  Michael Cera
+[PER_578] →  Will Arnett
+[PER_579] →  Richard Nixon
+[PER_57] →  Janet DiGiacomo
+[PER_580] →  Don Draper
+[PER_581] →  Jon Hamm
+[PER_582] →  Matthew Weiner
+[PER_583] →  Weiner
+[PER_584] →  Manson
+[PER_585] →  Lane Pryce
+[PER_586] →  Bert Cooper
+[PER_587] → Robert Morse
+[PER_588] →  Ken Cosgrove
+[PER_589] → Aaron Staton
+[PER_58] →  Mark Mooney
+[PER_590] →  Harry Crane
+[PER_591] → Rich Sommer
+[PER_592] →  Joan Harris
+[PER_593] → Christina Hendricks
+[PER_594] →  Roger Sterling
+[PER_595] →  John Slattery
+[PER_596] →  Peggy Olson
+[PER_597] →  Mary Wells Lawrence
+[PER_598] →  Olson
+[PER_599] →  Elisabeth Moss
+[PER_59] →  Mike Love
+[PER_5] →  Fatou Bensouda
+[PER_600] →  Don
+[PER_601] →  Betty
+[PER_602] → January Jones
+[PER_603] →  Henry Francis
+[PER_604] → Christopher Stanley
+[PER_605] →  Sally
+[PER_606] → Kiernan Shipka
+[PER_607] →  Glen Bishop
+[PER_608] →  Nina Dobrev
+[PER_609] →  Elena
+[PER_60] →  Julie In
+[PER_610] →  Dobrev
+[PER_611] →  Elena Gilbert
+[PER_612] →  Damon Salvatore
+[PER_613] → Delena
+[PER_614] →  Nina
+[PER_615] →  iDamonAndElena
+[PER_616] →  Julie Plec
+[PER_617] → Nina
+[PER_618] →  N
+[PER_619] →  Smriti Irani
+[PER_61] →  Cheri Mossburg
+[PER_620] →  Kartik Kashyap
+[PER_621] →  Irani
+[PER_622] →  Kashyap
+[PER_623] →  Gul Tuysuz
+[PER_624] →  Elaine Ly
+[PER_625] →  Jason Hanna
+[PER_626] →  Yevgeny Gladyshev
+[PER_627] →  Gladyshev
+[PER_628] →  Kayahan
+[PER_629] → Kayahan
+[PER_62] →  Gabriel Llave
+[PER_630] →  Ahmet Davutoglu
+[PER_631] →  Kayahan Acar
+[PER_632] →  Zhou Yongkang
+[PER_633] → Zhou
+[PER_634] →  Zhou
+[PER_635] →  Xi Jinping
+[PER_636] →  Xi
+[PER_637] →  Willy Lam
+[PER_638] →  Bo Xilai
+[PER_639] →  Bo
+[PER_63] →  Aldczar Aurelio
+[PER_640] →  Lam
+[PER_641] → Joseph
+[PER_642] →  Nicodemus
+[PER_643] →  Lazarus
+[PER_644] →  Mary
+[PER_645] →  Judas Iscariot
+[PER_646] →  Judas
+[PER_647] →  Joshua Garroway
+[PER_648] →  Garroway
+[PER_649] →  Magdalene
+[PER_64] →  Fau
+[PER_650] →  Joanna
+[PER_651] →  Herod
+[PER_652] →  Chuza
+[PER_653] →  Susanna
+[PER_654] →  Luke
+[PER_655] →  Mary Magdalene
+[PER_656] →  Herod Antipas
+[PER_657] →  Herod the Great
+[PER_658] →  Mark Goodacre
+[PER_659] →  Goodacre
+[PER_65] →  Faustino Dry III
+[PER_660] →  Joseph
+[PER_661] →  Michael M
+[PER_662] →  Michael McKinley
+[PER_663] →  David Gibson
+[PER_664] →  Georgia Powers
+[PER_665] →  John Lewis
+[PER_666] →  Yves Bigot
+[PER_667] →  Paul Germain
+[PER_668] →  Felix
+[PER_669] → Felix
+[PER_66] →  Dry
+[PER_670] →  Jennifer Stewart
+[PER_671] →  Stewart
+[PER_672] →  Joseph Naaman
+[PER_673] →  Dzhokhar Tsarnaev
+[PER_674] →  Aaron Hernandez
+[PER_675] →  Rahm Emanuel
+[PER_676] → Rand Paul
+[PER_677] →  Jesus "Chuy" Garcia
+[PER_678] →  Darren Wilson
+[PER_679] →  Tsarnaev
+[PER_67] →  Bob Barker
+[PER_680] →  uding
+[PER_681] →  Hernandez
+[PER_682] →  Odin Lloyd
+[PER_683] →  Lloyd
+[PER_684] →  Robert Kraft
+[PER_685] →  uz
+[PER_686] →  Chris Christie
+[PER_687] →  Marco Rubio
+[PER_688] →  Rand
+[PER_689] →  Ron
+[PER_68] → Barker
+[PER_690] →  Emanuel
+[PER_691] → -
+[PER_692] →  Garcia
+[PER_693] →  Mike Weimer
+[PER_694] →  Weimer
+[PER_695] →  Rafael Cruz
+[PER_696] →  Bryan English
+[PER_697] →  Jesus Christ
+[PER_698] →  Rick Santorum
+[PER_699] →  Ron Paul-Rand Paul
+[PER_69] →  Drew Carey
+[PER_6] →  Vasco Cotovio
+[PER_700] →  Santorum
+[PER_701] →  Rick Tyler
+[PER_702] →  Russell Moore
+[PER_703] →  Moore
+[PER_704] →  Steve Scheffler
+[PER_705] →  Rick Perry
+[PER_706] →  Scheffler
+[PER_707] → Huckabee
+[PER_708] →  Abdirahim Abdullahi
+[PER_709] →  Michael Picker
+[PER_70] →  Barker
+[PER_710] →  Tony Earley
+[PER_711] →  Judy Clarke
+[PER_712] →  Clarke
+[PER_713] →  Tamerlan Tsarnaev
+[PER_714] →  Paul Callan
+[PER_715] → Tsarnaev
+[PER_716] →  Callan
+[PER_717] →  Ann O'Neill
+[PER_718] →  Dana Ford
+[PER_719] →  Mayra Cuevas
+[PER_71] →  Carey
+[PER_720] →  Jay Parini
+[PER_721] →  Buddha
+[PER_722] →  T.S. Eliot
+[PER_723] →  Yashasvi Yadav
+[PER_724] →  Yadav
+[PER_725] →  Chirag Wakaskar
+[PER_726] →  Akhilesh Yadav
+[PER_727] →  Kunal Sehgal
+[PER_728] →  Xavier Morales
+[PER_729] →  Morales
+[PER_72] →  Yahya Rashid
+[PER_730] →  Joe Clancy
+[PER_731] →  Clancy
+[PER_732] →  Julia Pierson
+[PER_733] →  Yves Naffrechoux
+[PER_734] →  Rex Manning
+[PER_735] →  Maxwell Caulfield
+[PER_736] →  Liv Tyler
+[PER_737] →  Anthony LaPaglia
+[PER_738] →  Renée Zellweger
+[PER_739] →  Jack
+[PER_73] →  Rashid
+[PER_740] →  Rose
+[PER_741] →  Aaron Samuels
+[PER_742] →  Cady
+[PER_743] →  Marty McFly
+[PER_744] →  A
+[PER_745] → J. Pero
+[PER_746] →  Dee Snider
+[PER_747] → . Snider
+[PER_748] →  Mike Portnoy
+[PER_749] → . Portnoy
+[PER_74] →  Lindsay Isaac
+[PER_750] →  A.J. Pero
+[PER_751] →  Pero
+[PER_752] →  Nicole Kidman
+[PER_753] →  Grace Kelly
+[PER_754] →  Olivier Dahan
+[PER_755] →  Grace
+[PER_756] →  Dahan
+[PER_757] →  Harvey Weinstein
+[PER_758] →  Weinstein
+[PER_759] →  Tim Roth
+[PER_75] →  Paul Walker
+[PER_760] →  Kelly
+[PER_761] →  Prince Rainier III
+[PER_762] →  Frank Langella
+[PER_763] →  Parker Posey
+[PER_764] →  Paz Vega
+[PER_765] →  Maria Callas
+[PER_766] →  Cathy Olson
+[PER_767] →  Tom Richter
+[PER_768] →  Eric Widick
+[PER_769] →  Widick
+[PER_76] → Vin Diesel
+[PER_770] →  Chet
+[PER_771] →  Brian VanVickle
+[PER_772] →  ian VanVickle
+[PER_773] →  Dan Gottschalk
+[PER_774] →  Lindsey Clark
+[PER_775] →  VanVickle
+[PER_776] →  AnneClaire Stapleton
+[PER_777] →  Catherine Shoichet
+[PER_778] →  Steve Almasy
+[PER_779] →  Jack Maddox
+[PER_77] → Paul Walker
+[PER_780] →  Sean Morris
+[PER_781] →  Michael Slager
+[PER_782] →  Slager
+[PER_783] →  Walter Scott
+[PER_784] →  Scott
+[PER_785] →  Feidin Santana
+[PER_786] →  Santana
+[PER_787] →  Lester Holt
+[PER_788] →  Slager.
+[PER_789] →  J. Gann
+[PER_78] →  Walker
+[PER_790] → . Gann
+[PER_791] → Slager
+[PER_792] →  Gann
+[PER_793] →  Spencer Pryor
+[PER_794] →  J. Banias
+[PER_795] →  Banias
+[PER_796] →  Ryan Julison
+[PER_797] →  Habersham
+[PER_798] →  Webb
+[PER_799] →  Eddie Driggers
+[PER_79] →  Kyle Upham
+[PER_7] →  Kareem Khadder
+[PER_800] →  Driggers
+[PER_801] →  Keith Summey
+[PER_802] → West
+[PER_803] → Kanye West
+[PER_804] →  Daniel Ramos
+[PER_805] →  West
+[PER_806] →  Ramos
+[PER_807] →  Gloria Allred
+[PER_808] →  Allred
+[PER_809] → Kanye
+[PER_80] →  Upham
+[PER_810] →  Kanye
+[PER_811] →  Beck
+[PER_812] →  Sonya Hamasaki
+[PER_813] → Douglas Brinkley
+[PER_814] →  Don McLean
+[PER_815] →  McLean
+[PER_816] → . McLean
+[PER_817] →  Buddy Holly
+[PER_818] →  Ritchie Valens
+[PER_819] →  J.P. "The Big Bopper" Richardson
+[PER_81] →  Roger Rodas
+[PER_820] →  Buddy
+[PER_821] →  Bob Dylan
+[PER_822] →  Henry Longfellow
+[PER_823] →  Johnny Mercer
+[PER_824] →  Jack Kerouac
+[PER_825] →  Pete Seeger
+[PER_826] →  Elvis Presley
+[PER_827] →  Charles Manson
+[PER_828] → Jack Flash
+[PER_829] →  Harold Arlen
+[PER_82] →  Brian O'Connor
+[PER_830] →  E.Y "Yip" Harburg
+[PER_831] →  Irving Berlin
+[PER_832] →  Woody Guthrie
+[PER_833] →  Otis Redding
+[PER_834] →  Letourneau Fualaau
+[PER_835] →  Mary Kay Letourneau Fualaau
+[PER_836] →  Vili Fualaau
+[PER_837] →  Fualaau
+[PER_838] →  Letourneau
+[PER_839] →  Barbara Walters
+[PER_83] →  Cody
+[PER_840] → Mary Kay
+[PER_841] →  Walters
+[PER_842] → Vili Fualaau
+[PER_843] → Don McLean
+[PER_844] →  Tom Lecky
+[PER_845] →  Janis Joplin
+[PER_846] →  Mindy Kaling
+[PER_847] →  Vijay Chokalingam
+[PER_848] → Jeff Yang
+[PER_849] →  Mindy Lahiri
+[PER_84] →  Caleb
+[PER_850] →  Kaling
+[PER_851] →  Chokalingam
+[PER_852] → JoJo
+[PER_853] →  Elizabeth Warren
+[PER_854] → Travolta
+[PER_855] →  John Travolta
+[PER_856] →  Travolta
+[PER_857] →  Tom Cruise
+[PER_858] →  Kirstie Alley
+[PER_859] →  Lawrence Wright
+[PER_85] →  Vin Diesel
+[PER_860] →  Tom
+[PER_861] → Cruise
+[PER_862] →  Jett
+[PER_863] →  Kelly Preston
+[PER_86] →  Diesel
+[PER_87] →  d
+[PER_88] →  Marcus Coleman
+[PER_89] →  Coleman
+[PER_8] →  Faith Karimi
+[PER_90] →  Paul
+[PER_91] →  Paul Vercammen
+[PER_92] →  Anne Frank
+[PER_93] → Anne
+[PER_94] →  Margot Frank
+[PER_95] →  Anne
+[PER_96] →  Margot
+[PER_97] →  Nannette Blitz
+[PER_98] →  Erika Prins
+[PER_99] →  Gertjan Broek
+[PER_9] →  Theia
