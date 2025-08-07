@@ -3,8 +3,8 @@ ANONYMIZATION STATISTICS
 
 Total entities found: 17
 Unique entities: 16
-Processing time: 2.75s
-Memory used: 1191.1 MB
+Processing time: 3.15s
+Memory used: 1435.4 MB
 
 Entity categories:
   PER: 3

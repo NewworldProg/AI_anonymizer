@@ -11,18 +11,19 @@ from typing import List, Tuple
 logger = logging.getLogger(__name__)
 
 class ChunkProcessor:
-
+    # initializes chunk size, overlap size, that will be used for chunking
     def __init__(self, chunk_size: int = None, overlap_size: int = None, **kwargs):
         """Constructor for chunk processor with optional chunk and overlap sizes."""
         self.chunk_size = chunk_size
         self.overlap_size = overlap_size
-    
+
+    #input text, sets up tokenizer that will be used, number of tokens in chunk, and overlap tokens
     def create_tokenized_chunks(self, text: str, tokenizer, max_tokens: int = 400, overlap_tokens: int = 25) -> List[Tuple[str, int]]:
         """Create chunks based on tokenizer boundaries with precise offset mapping."""
+        # Ensure text is not empty
         if not text:
             return []
         
-        # Use a more conservative token limit to avoid sequence length warnings
         # RoBERTa has a 512 token limit, so we use 400 for safety
         effective_max_tokens = min(max_tokens, 400)
         
