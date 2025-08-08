@@ -14,7 +14,7 @@ from .chunk_processor import ChunkProcessor
 from .entity_mapper import EntityMapper
 from .statistics_generator import StatisticsGenerator
 from .deanonymizer import TextDeanonymizer
-from .entities import EntityMatch, AnonymizationResult
+from .entities import EntityMatch
 from .anonymizer import Anonymizer
 
 __all__ = [

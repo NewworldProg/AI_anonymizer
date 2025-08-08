@@ -25,15 +25,3 @@ class EntityMatch:                                  # object that holds informat
         return (self.text.lower() == other.text.lower() and # checks if text and label are the same
                 self.label == other.label)
 
-
-@dataclass
-class AnonymizationResult:
-    """Result of text anonymization."""
-    anonymized_text: str
-    statistics: Dict[str, Any]
-    entity_mapping: Dict[str, str]
-    original_entities: list = None
-    
-    def __post_init__(self):
-        if self.original_entities is None:
-            self.original_entities = []

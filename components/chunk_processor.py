@@ -106,27 +106,27 @@ class ChunkProcessor:
 
         logger.info(f"Created {len(chunks)} regex-safe chunks")
         return chunks
-
+    # input text and position from create_regex_safe_chunks chunks.append((chunk, start))
     def _is_inside_pattern(self, text: str, position: int) -> bool:
         """Check if position is inside a potential regex pattern."""
         # Check a small window around the position of a letter in the text
-        window_start = max(0, position - 30)
-        window_end = min(len(text), position + 30)
-        window = text[window_start:window_end]
-        
+        window_start = max(0, position - 30) # overlap with previous chunk if it exists
+        window_end = min(len(text), position + 30) # overlap with next after chunk if it exists
+        window = text[window_start:window_end]  # extract the window of text
+
         # Look for patterns that shouldn't be broken
         patterns_to_avoid = [
             r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}',  # Email
-            r'https?://[^\s]+',  # URL
+            r'https?://[^\s]+ www\.[^\s]+',  # URL
             r'\+?1?[-.\s]?\(?[0-9]{3}\)?[-.\s]?[0-9]{3}[-.\s]?[0-9]{4}',  # Phone
         ]
-
+        # input patterns to avoid
         for pattern in patterns_to_avoid: # if it matches a pattern to avoid breaking
-            for match in re.finditer(pattern, window): # return that is inside a pattern
-                match_start = window_start + match.start()
-                match_end = window_start + match.end()
-                if match_start <= position <= match_end:
-                    return True
+            for match in re.finditer(pattern, window): # if the pattern to avoid is found in the window
+                match_start = window_start + match.start()  # determine start of match
+                match_end = window_start + match.end()  # determine end of match
+                if match_start <= position <= match_end:    # check if position is within match
+                    return True  # if it is, return True
 
-        return False # else return False
+        return False  # else return False
 

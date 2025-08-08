@@ -179,7 +179,7 @@ class EntityDetector:
                 exact_duplicate_count += 1
 
 
-        # Step 2: Handle overlapping entities (keep highest confidence)
+        # Handle overlapping entities (keep highest confidence)
         # Sort by start position, then by confidence (highest first)
         position_deduplicated.sort(key=lambda x: (x.start, -x.confidence)) # sort first by earlier start position and more confidence
         final_entities = []

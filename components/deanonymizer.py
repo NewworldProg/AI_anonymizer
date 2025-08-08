@@ -12,7 +12,7 @@ class TextDeanonymizer:
         result = anonymized_text
         
         # Filter to only well-formed placeholders (start with [ and end with ])
-        valid_placeholders = {k: v for k, v in entity_mapping.items() 
+        valid_placeholders = {k: v for k, v in entity_mapping.items()  # initiates two variables to hold start and end positions of placeholders
                             if k.startswith('[') and k.endswith(']')}
         
         # Sort placeholders by length (longest first) to avoid partial replacements
