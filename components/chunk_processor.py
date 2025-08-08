@@ -35,7 +35,7 @@ class ChunkProcessor:
             return_offsets_mapping=True
         )
         
-        tokens = tokenized['input_ids']
+        tokens = tokenized['input_ids'] 
         offset_mapping = tokenized['offset_mapping']
         
         chunks = []
@@ -50,13 +50,13 @@ class ChunkProcessor:
             chunk_char_end = offset_mapping[end_token - 1][1]
             chunk_text = text[chunk_char_start:chunk_char_end]
             chunk_offset = chunk_char_start
-            
-            chunks.append((chunk_text, chunk_offset))
-            
+
+            chunks.append((chunk_text, chunk_offset)) # append tuple of chunk and its start position
+
             # Move to next chunk with overlap
             if end_token >= len(tokens):
                 break
-            start_token = max(0, end_token - overlap_tokens)
+            start_token = max(0, end_token - overlap_tokens) # increment start token for next chunk minus the overlap
 
         logger.info(f"Created {len(chunks)} tokenized chunks for NER processing (max {effective_max_tokens} tokens each)")
         return chunks
@@ -82,7 +82,7 @@ class ChunkProcessor:
                 search_start = max(end - 50, start + chunk_size // 2)
                 # end search in overlap territory
                 search_end = min(end + 50, text_length)
-                # in this search range, we look for safe break points
+                # in this search range, look for safe break points
                 best_break = end
                 for i in range(search_end - 1, search_start - 1, -1):
                     if text[i] in safe_break_chars:
@@ -94,22 +94,22 @@ class ChunkProcessor:
                 end = best_break
             
             chunk = text[start:end]
-            chunks.append((chunk, start))
-            
+            chunks.append((chunk, start)) # append touple of chunk and its start position
+
             if end >= text_length:
                 break
-                
-            start = end - overlap_size
-            # Ensure no infinite loop
-            if start <= chunks[-1][1]:
-                start = chunks[-1][1] + 1
-        
+
+            start = end - overlap_size # increment the start position minus overlap for next start position
+            # Ensure no infinite loop with overlapping chunks
+            if start <= chunks[-1][1]: # if start <= last chunk end
+                start = chunks[-1][1] + 1 # Move start to the end of the last chunk
+
         logger.info(f"Created {len(chunks)} regex-safe chunks")
         return chunks
 
     def _is_inside_pattern(self, text: str, position: int) -> bool:
         """Check if position is inside a potential regex pattern."""
-        # Check a small window around the position
+        # Check a small window around the position of a letter in the text
         window_start = max(0, position - 30)
         window_end = min(len(text), position + 30)
         window = text[window_start:window_end]
@@ -120,13 +120,13 @@ class ChunkProcessor:
             r'https?://[^\s]+',  # URL
             r'\+?1?[-.\s]?\(?[0-9]{3}\)?[-.\s]?[0-9]{3}[-.\s]?[0-9]{4}',  # Phone
         ]
-        
-        for pattern in patterns_to_avoid:
-            for match in re.finditer(pattern, window):
+
+        for pattern in patterns_to_avoid: # if it matches a pattern to avoid breaking
+            for match in re.finditer(pattern, window): # return that is inside a pattern
                 match_start = window_start + match.start()
                 match_end = window_start + match.end()
                 if match_start <= position <= match_end:
                     return True
-        
-        return False
+
+        return False # else return False
 

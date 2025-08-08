@@ -10,7 +10,8 @@ from components import (    # components that contain the main functionality
     TextDeanonymizer
 )
 
-if __name__ == "__main__":
+def run_main():
+    """Main anonymization workflow function."""
     print("Text Anonymization System")
     print("=" * 50)
 
@@ -66,6 +67,11 @@ if __name__ == "__main__":
     print(f"Processing time: {processing_time:.2f}s")
     print(f"Peak memory usage: {peak / 1024 / 1024:.1f} MB")
     print("\nStatistics generation complete!")
+    print("Confidence statistics by category:")
+    for category, stats in statistics['confidence_stats'].items():
+        print(f"  {category}: average confidence={stats['average confidence']:.3f}, min confidence={stats['min confidence']:.3f}, max confidence={stats['max confidence']:.3f}")
+
+    print(f"Entity types found: {', '.join(statistics['entity_types_found'])}")
 
     # Save results
     save_choice = input("⏸️  Do you want to save the results? (y/n): ").strip().lower()
@@ -97,6 +103,10 @@ if __name__ == "__main__":
             f.write("Entity categories:\n")
             for category, count in statistics['by_category'].items():
                 f.write(f"  {category}: {count}\n")
+            f.write("\nConfidence statistics by category:\n")
+            for category, stats in statistics['confidence_stats'].items():
+                f.write(f"  {category}: average confidence={stats['average confidence']:.3f}, min confidence={stats['min confidence']:.3f}, max confidence={stats['max confidence']:.3f}\n")
+            f.write(f"\nEntity types found: {', '.join(statistics['entity_types_found'])}\n")
 
         print("✅ Saved all outputs in /output")
 
@@ -122,3 +132,6 @@ if __name__ == "__main__":
         print("Skipping de-anonymization test.")
 
     print("\nProcess finished!")
+
+if __name__ == "__main__":
+    run_main()

@@ -83,9 +83,9 @@ class EntityDetector:
         
         entities = []
         total_chunks = len(chunks)
-        
+
         for i, (chunk_text, chunk_offset) in enumerate(chunks, 1): # chunked text and starting position in specific chunk
-            logger.info(f"Processing NER chunk {i}/{total_chunks} (offset: {chunk_offset})")
+            logger.info(f"Processing NER chunk {i}/{total_chunks} (offset: {chunk_offset})") # log chunk processing
             ner_entities = self._detect_entities_ner(chunk_text, chunk_offset)
             entities.extend(ner_entities) # extend the list with new entities
             logger.info(f"Found {len(ner_entities)} entities in chunk {i}")
@@ -162,7 +162,7 @@ class EntityDetector:
         if not entities: # check if entities list is empty
             return entities
         
-        # Step 1: Remove exact positional duplicates (same entity found multiple times at same position)
+        # Remove exact positional duplicates (same entity found multiple times at same position)
         # This handles chunking overlap where the same entity appears in multiple chunks
         seen_positions = set()
         position_deduplicated = []
@@ -174,7 +174,7 @@ class EntityDetector:
             if key not in seen_positions:
                 seen_positions.add(key)
                 position_deduplicated.append(entity)
-                #output unique entity with start, end, text and label
+                # utput unique entity with start, end, text and label
             else:
                 exact_duplicate_count += 1
 

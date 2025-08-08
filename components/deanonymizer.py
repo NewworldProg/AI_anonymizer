@@ -1,8 +1,9 @@
-from typing import Dict    
+from typing import Dict
+import re
 
 
 class TextDeanonymizer:
-    """Class for reversing the anonymization process."""
+    """Class for reversing the anonymization process with collision-safe replacement."""
 
     # input anonymized text and entity mapping
     @staticmethod
@@ -14,12 +15,14 @@ class TextDeanonymizer:
         valid_placeholders = {k: v for k, v in entity_mapping.items() 
                             if k.startswith('[') and k.endswith(']')}
         
-        # Sort placeholders by length (longest first) 
+        # Sort placeholders by length (longest first) to avoid partial replacements
         sorted_placeholders = sorted(valid_placeholders.keys(), key=len, reverse=True)
 
-        # takes placeholders from entity mapping and replaces them in the text
+        # Use precise replacement to avoid replacing parts of other placeholders or text
         for placeholder in sorted_placeholders:
             original_entity = valid_placeholders[placeholder]
-            result = result.replace(placeholder, original_entity)
+            # Use word boundary regex to ensure exact match only
+            escaped_placeholder = re.escape(placeholder)
+            result = re.sub(escaped_placeholder, original_entity, result)
         
         return result

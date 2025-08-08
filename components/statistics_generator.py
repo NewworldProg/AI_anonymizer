@@ -15,9 +15,9 @@ class StatisticsGenerator: # class for generating statistics about anonymization
             label_entities = [e for e in entities if e.label == label] # filter entities by label
             confidences = [e.confidence for e in label_entities] # extract confidence scores
             confidence_stats[label] = {
-                'mean': sum(confidences) / len(confidences),
-                'min': min(confidences),
-                'max': max(confidences)
+                'average confidence': sum(confidences) / len(confidences),
+                'min confidence': min(confidences),
+                'max confidence': max(confidences)
             }
         
         return {

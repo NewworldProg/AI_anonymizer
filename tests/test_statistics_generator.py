@@ -33,9 +33,9 @@ def test_statistics_generator_basic(statistics_generator):
     assert 'PER' in stats['entity_types_found']
     assert 'ORG' in stats['entity_types_found']
     assert 'LOC' in stats['entity_types_found']
-    assert stats['confidence_stats']['PER']['mean'] == (0.95 + 0.80) / 2
-    assert stats['confidence_stats']['PER']['min'] == 0.80
-    assert stats['confidence_stats']['PER']['max'] == 0.95
+    assert stats['confidence_stats']['PER']['average confidence'] == (0.95 + 0.80) / 2
+    assert stats['confidence_stats']['PER']['min confidence'] == 0.80
+    assert stats['confidence_stats']['PER']['max confidence'] == 0.95
     # output results of basic statistics generation
 
     # input empty entities and mapping

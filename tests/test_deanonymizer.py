@@ -12,6 +12,7 @@ def processor():
     return TextDeanonymizer()
 
 def test_deanonymize_text(processor):
+    # Test basic deanonymization
     anonymized = "Hello [PER_1], how are you?"
     expected = "Hello John Smith, how are you?"
     entity_mapping = {
@@ -21,6 +22,7 @@ def test_deanonymize_text(processor):
     assert result == expected
 
 def test_deanonymize_multiple_placeholders(processor):
+    # Test basic deanonymization with multiple placeholders
     anonymized = "Contact [PER_1] at [ORG_1] in [LOC_1]."
     expected = "Contact John Smith at Acme Corporation in New York."
     entity_mapping = {
@@ -32,6 +34,7 @@ def test_deanonymize_multiple_placeholders(processor):
     assert result == expected
 
 def test_deanonymize_no_placeholders(processor):
+    # Test basic deanonymization with no placeholders
     anonymized = "No placeholders here."
     expected = "No placeholders here."
     entity_mapping = {
@@ -50,6 +53,7 @@ def test_deanonymize_empty_text(processor):
     assert result == expected
 
 def test_deanonymize_missing_placeholder(processor):
+    # Test deanonymization with text containing a missing placeholder
     anonymized = "Hello [PER_1] and [PER_999]."
     expected = "Hello John Smith and [PER_999]."
     entity_mapping = {
